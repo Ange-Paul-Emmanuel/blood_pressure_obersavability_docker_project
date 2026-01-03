@@ -1,0 +1,11 @@
+pandas
+numpy
+faker
+fhir.resources
+random
+datetime
+kafka-python
+datetime
+json
+os
+time

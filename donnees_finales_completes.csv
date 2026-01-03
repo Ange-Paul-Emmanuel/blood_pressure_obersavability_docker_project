@@ -1,0 +1,826 @@
+Date,Patient,Age,Sexe,Fumeur,Diabete,Systolic,Diastolic,Glucose,Cholesterol,AVC_Risk_Score,Target_Risk
+2026-01-01T10:21:59+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,117.0,86.0,70.5,2.14,0.5,Low Risk
+2026-01-01T17:59:28+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,119.0,70.0,88.8,1.27,0.0,Low Risk
+2026-01-02T06:58:48+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,142.0,91.0,113.2,1.74,2.0,Low Risk
+2026-01-01T05:58:10+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,128.0,80.0,79.1,2.36,0.5,Low Risk
+2026-01-02T10:14:15+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,118.0,76.0,96.7,1.65,0.0,Low Risk
+2026-01-01T23:19:59+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,118.0,71.0,67.4,2.43,1.0,Low Risk
+2026-01-02T00:09:45+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,118.0,78.0,97.6,2.25,0.5,Low Risk
+2026-01-02T10:56:15+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,94.0,69.0,101.8,2.81,1.0,Low Risk
+2026-01-02T04:43:45+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,104.0,66.0,124.2,1.82,0.0,Low Risk
+2026-01-01T00:21:37+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,113.0,71.0,109.4,1.56,0.0,Low Risk
+2026-01-01T09:10:02+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,108.0,73.0,76.2,1.95,0.0,Low Risk
+2026-01-02T05:33:48+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,114.0,70.0,104.6,1.73,0.0,Low Risk
+2026-01-02T05:33:09+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,116.0,73.0,75.0,2.57,1.0,Low Risk
+2026-01-02T04:02:40+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,124.0,84.0,82.5,2.39,0.5,Low Risk
+2026-01-02T02:52:12+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,118.0,85.0,114.4,1.1,0.0,Low Risk
+2026-01-01T06:07:57+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,120.0,79.0,75.4,1.97,0.0,Low Risk
+2026-01-01T20:07:07+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,126.0,85.0,110.8,2.0,0.0,Low Risk
+2026-01-01T05:16:17+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,105.0,69.0,62.3,1.43,0.0,Low Risk
+2026-01-02T10:28:19+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,126.0,76.0,51.8,1.72,0.0,Low Risk
+2026-01-02T06:28:14+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,131.0,81.0,104.6,1.17,1.0,Low Risk
+2026-01-01T08:43:13+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,110.0,58.0,101.8,1.49,0.0,Low Risk
+2026-01-02T06:41:46+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,114.0,69.0,91.5,1.0,0.0,Low Risk
+2026-01-01T22:16:34+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,117.0,85.0,84.0,1.99,0.0,Low Risk
+2026-01-01T10:48:02+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,109.0,70.0,69.7,2.46,1.0,Low Risk
+2026-01-01T07:33:09+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,122.0,80.0,86.3,2.68,1.0,Low Risk
+2026-01-01T23:08:15+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,116.0,79.0,118.0,2.63,1.0,Low Risk
+2026-01-02T02:46:17+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,117.0,76.0,46.9,1.49,0.0,Low Risk
+2026-01-01T17:44:15+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,116.0,77.0,99.1,1.96,0.0,Low Risk
+2026-01-01T11:43:47+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,97.0,61.0,128.6,2.33,0.5,Low Risk
+2026-01-02T04:42:22+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,127.0,79.0,65.9,1.98,0.0,Low Risk
+2026-01-02T06:41:18+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,117.0,72.0,87.1,2.51,1.0,Low Risk
+2026-01-02T05:09:35+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,100.0,61.0,91.8,2.17,0.5,Low Risk
+2026-01-02T11:59:29+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,107.0,68.0,98.6,2.03,0.5,Low Risk
+2026-01-01T19:12:23+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,120.0,81.0,87.9,2.2,0.5,Low Risk
+2026-01-02T04:34:56+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,111.0,64.0,102.0,2.63,1.0,Low Risk
+2026-01-01T17:14:34+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,116.0,76.0,111.4,1.68,0.0,Low Risk
+2026-01-01T01:51:20+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,119.0,74.0,86.5,1.81,0.0,Low Risk
+2026-01-01T22:43:33+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,123.0,81.0,97.4,1.95,0.0,Low Risk
+2026-01-01T20:12:03+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,117.0,73.0,94.1,2.04,0.5,Low Risk
+2026-01-01T04:41:58+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,109.0,79.0,75.4,1.72,0.0,Low Risk
+2026-01-01T04:14:19+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,116.0,86.0,104.3,1.99,0.0,Low Risk
+2026-01-01T07:48:01+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,107.0,70.0,92.8,1.88,0.0,Low Risk
+2026-01-01T19:42:03+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,144.0,104.0,82.9,1.98,2.0,Low Risk
+2026-01-02T00:49:11+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,106.0,64.0,96.3,1.73,0.0,Low Risk
+2026-01-02T08:46:33+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,110.0,71.0,105.8,1.63,0.0,Low Risk
+2026-01-02T03:19:47+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,120.0,83.0,138.5,1.85,0.0,Low Risk
+2026-01-01T16:14:48+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,111.0,77.0,96.7,2.23,0.5,Low Risk
+2026-01-01T17:00:11+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,90.0,61.0,102.1,2.75,1.0,Low Risk
+2026-01-01T08:07:52+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,129.0,87.0,103.2,1.35,0.0,Low Risk
+2026-01-02T09:31:21+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,112.0,76.0,96.5,1.23,0.0,Low Risk
+2026-01-01T05:35:59+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,104.0,65.0,102.4,1.13,0.0,Low Risk
+2026-01-01T07:18:57+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,109.0,76.0,97.0,2.25,0.5,Low Risk
+2026-01-01T05:33:12+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,127.0,84.0,113.1,2.2,0.5,Low Risk
+2026-01-01T02:05:14+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,108.0,73.0,100.4,2.42,1.0,Low Risk
+2026-01-02T04:56:53+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,102.0,63.0,129.4,2.66,1.0,Low Risk
+2026-01-01T03:18:35+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,95.0,66.0,82.9,1.94,0.0,Low Risk
+2026-01-02T09:52:29+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,112.0,75.0,128.5,1.55,0.0,Low Risk
+2026-01-02T04:37:55+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,112.0,76.0,102.2,2.2,0.5,Low Risk
+2026-01-01T03:35:06+01:00,Marguerite Benoit-Renard,28,female,,Diabetes None,104.0,76.0,93.0,1.93,0.0,Low Risk
+2026-01-01T10:24:30+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,136.0,101.0,170.2,1.19,3.0,Low Risk
+2026-01-01T16:44:56+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,130.0,82.0,180.0,2.68,3.0,Low Risk
+2026-01-01T16:14:16+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,140.0,87.0,181.9,2.39,3.5,Low Risk
+2026-01-01T09:43:06+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,138.0,88.0,156.9,1.94,3.0,Low Risk
+2026-01-02T10:17:25+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,156.0,103.0,192.7,1.77,4.0,Low Risk
+2026-01-02T08:37:09+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,137.0,94.0,140.6,1.83,3.0,Low Risk
+2026-01-02T09:59:20+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,143.0,89.0,145.7,1.83,4.0,Low Risk
+2026-01-01T17:49:41+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,151.0,101.0,166.7,2.32,4.5,Low Risk
+2026-01-02T11:39:45+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,125.0,85.0,158.9,2.79,3.0,Low Risk
+2026-01-01T11:21:34+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,150.0,90.0,112.4,2.02,4.5,Low Risk
+2026-01-01T02:23:38+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,138.0,97.0,151.4,2.42,4.0,Low Risk
+2026-01-02T09:40:02+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,130.0,79.0,147.1,1.84,2.0,Low Risk
+2026-01-02T11:21:49+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,153.0,104.0,129.6,2.11,4.5,Low Risk
+2026-01-01T12:17:57+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,136.0,83.0,178.9,2.47,4.0,Low Risk
+2026-01-01T04:07:27+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,90.0,166.4,2.48,5.0,Low Risk
+2026-01-02T04:36:51+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,157.0,102.0,188.9,3.15,5.0,Low Risk
+2026-01-01T10:13:25+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,145.0,90.0,167.4,2.15,4.5,Low Risk
+2026-01-02T07:17:47+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,138.0,80.0,143.9,2.58,4.0,Low Risk
+2026-01-01T15:26:34+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,127.0,82.0,200.6,1.95,2.0,Low Risk
+2026-01-02T02:42:49+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,101.0,174.2,1.89,4.0,Low Risk
+2026-01-01T12:01:59+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,150.0,93.0,154.6,2.08,4.5,Low Risk
+2026-01-02T05:43:20+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,151.0,93.0,180.0,2.29,4.5,Low Risk
+2026-01-01T03:01:00+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,122.0,80.0,145.3,2.22,2.5,Low Risk
+2026-01-02T00:36:27+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,119.0,73.0,173.0,1.99,2.0,Low Risk
+2026-01-01T05:34:02+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,150.0,99.0,167.9,2.22,4.5,Low Risk
+2026-01-01T13:54:12+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,124.0,75.0,172.0,1.97,2.0,Low Risk
+2026-01-01T00:57:37+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,135.0,87.0,166.0,2.64,4.0,Low Risk
+2026-01-02T06:34:13+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,146.0,93.0,146.8,2.42,5.0,Low Risk
+2026-01-02T04:28:03+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,86.0,155.2,2.39,4.5,Low Risk
+2026-01-01T21:38:13+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,138.0,83.0,161.8,2.08,3.5,Low Risk
+2026-01-01T19:49:30+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,139.0,89.0,164.4,2.12,3.5,Low Risk
+2026-01-01T09:54:04+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,154.0,99.0,134.7,2.2,4.5,Low Risk
+2026-01-01T13:47:17+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,146.0,103.0,172.9,2.52,5.0,Low Risk
+2026-01-02T11:45:09+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,140.0,88.0,180.1,2.07,3.5,Low Risk
+2026-01-02T11:38:09+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,137.0,88.0,178.9,2.06,3.5,Low Risk
+2026-01-01T08:51:16+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,146.0,105.0,166.8,2.29,4.5,Low Risk
+2026-01-02T06:04:48+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,134.0,86.0,169.2,1.48,3.0,Low Risk
+2026-01-01T18:37:05+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,121.0,81.0,141.7,1.97,2.0,Low Risk
+2026-01-02T05:11:36+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,129.0,73.0,166.3,2.09,2.5,Low Risk
+2026-01-01T07:02:13+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,154.0,102.0,146.6,2.1,4.5,Low Risk
+2026-01-01T03:00:49+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,131.0,77.0,151.9,2.99,4.0,Low Risk
+2026-01-02T10:00:23+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,132.0,93.0,190.1,1.82,3.0,Low Risk
+2026-01-02T01:48:22+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,144.0,86.0,170.2,1.78,4.0,Low Risk
+2026-01-02T01:32:22+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,139.0,84.0,136.2,2.66,4.0,Low Risk
+2026-01-01T01:32:10+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,146.0,93.0,166.1,2.52,5.0,Low Risk
+2026-01-02T07:07:23+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,154.0,98.0,150.0,1.7,4.0,Low Risk
+2026-01-01T03:06:03+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,90.0,182.0,1.74,4.0,Low Risk
+2026-01-01T03:16:19+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,153.0,87.0,178.6,1.53,4.0,Low Risk
+2026-01-01T18:37:28+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,140.0,88.0,117.2,1.64,3.0,Low Risk
+2026-01-02T05:17:29+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,126.0,78.0,161.5,3.01,3.0,Low Risk
+2026-01-01T22:30:42+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,94.0,174.4,2.28,4.5,Low Risk
+2026-01-02T01:40:37+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,152.0,100.0,187.9,2.02,4.5,Low Risk
+2026-01-02T11:26:00+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,119.0,73.0,190.8,2.01,2.5,Low Risk
+2026-01-02T06:05:22+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,100.0,175.6,2.06,4.5,Low Risk
+2026-01-01T09:45:51+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,149.0,94.0,141.7,2.09,4.5,Low Risk
+2026-01-01T17:19:45+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,144.0,92.0,189.1,2.81,5.0,Low Risk
+2026-01-02T09:27:39+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,131.0,76.0,163.1,1.64,3.0,Low Risk
+2026-01-01T07:31:20+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,133.0,84.0,163.4,1.72,3.0,Low Risk
+2026-01-01T13:17:11+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,89.0,200.3,1.74,4.0,Low Risk
+2026-01-01T03:34:44+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,150.0,97.0,152.7,2.05,4.5,Low Risk
+2026-01-01T12:36:22+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,122.0,82.0,163.9,2.29,2.5,Low Risk
+2026-01-02T12:05:16+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,118.0,76.0,159.1,1.77,2.0,Low Risk
+2026-01-01T00:05:59+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,152.0,104.0,173.6,1.95,4.0,Low Risk
+2026-01-02T00:37:39+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,164.0,112.0,165.9,2.56,6.0,High Risk
+2026-01-02T00:41:56+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,156.0,100.0,165.0,2.82,5.0,Low Risk
+2026-01-02T06:39:01+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,147.0,98.0,156.2,2.07,4.5,Low Risk
+2026-01-02T09:25:21+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,139.0,96.0,157.7,2.11,3.5,Low Risk
+2026-01-01T20:51:52+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,143.0,94.0,196.6,2.1,4.5,Low Risk
+2026-01-02T04:34:14+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,140.0,96.0,165.9,2.18,3.5,Low Risk
+2026-01-02T10:22:09+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,145.0,92.0,176.0,3.25,5.0,Low Risk
+2026-01-01T02:32:27+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,134.0,83.0,176.1,2.42,4.0,Low Risk
+2026-01-01T16:45:51+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,138.0,92.0,139.0,1.95,3.0,Low Risk
+2026-01-02T10:15:06+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,144.0,97.0,207.5,2.55,5.0,Low Risk
+2026-01-01T00:52:22+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,130.0,87.0,189.5,2.02,2.5,Low Risk
+2026-01-02T09:53:39+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,129.0,86.0,155.5,1.07,2.0,Low Risk
+2026-01-01T21:44:33+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,129.0,88.0,180.7,2.74,3.0,Low Risk
+2026-01-02T10:03:14+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,132.0,82.0,145.6,1.96,3.0,Low Risk
+2026-01-01T08:00:39+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,143.0,92.0,177.4,2.21,4.5,Low Risk
+2026-01-01T21:30:05+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,151.0,102.0,194.2,2.54,5.0,Low Risk
+2026-01-02T06:58:12+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,151.0,101.0,189.8,2.21,4.5,Low Risk
+2026-01-02T02:29:44+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,130.0,89.0,139.8,2.03,2.5,Low Risk
+2026-01-01T15:08:14+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,120.0,81.0,151.2,3.06,3.0,Low Risk
+2026-01-01T06:07:11+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,135.0,87.0,171.4,2.26,3.5,Low Risk
+2026-01-02T10:10:56+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,98.0,188.7,2.64,5.0,Low Risk
+2026-01-01T10:48:31+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,151.0,97.0,164.7,1.96,4.0,Low Risk
+2026-01-01T01:56:49+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,114.0,74.0,192.4,2.47,3.0,Low Risk
+2026-01-01T07:10:07+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,136.0,84.0,193.8,2.37,3.5,Low Risk
+2026-01-02T07:33:12+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,149.0,87.0,148.8,1.45,4.0,Low Risk
+2026-01-02T00:25:06+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,124.0,77.0,197.9,2.26,2.5,Low Risk
+2026-01-01T03:22:15+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,141.0,89.0,168.9,2.4,4.5,Low Risk
+2026-01-01T17:55:04+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,146.0,103.0,188.4,2.09,4.5,Low Risk
+2026-01-01T18:11:42+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,117.0,69.0,164.0,2.54,3.0,Low Risk
+2026-01-01T15:51:23+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,151.0,90.0,140.5,1.74,4.0,Low Risk
+2026-01-02T09:38:24+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,121.0,74.0,136.5,1.94,2.0,Low Risk
+2026-01-01T12:20:43+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,145.0,93.0,142.7,2.46,5.0,Low Risk
+2026-01-02T06:10:11+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,121.0,76.0,175.6,2.82,3.0,Low Risk
+2026-01-01T08:54:56+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,149.0,96.0,158.7,1.84,4.0,Low Risk
+2026-01-02T02:28:38+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,141.0,83.0,177.0,2.61,5.0,Low Risk
+2026-01-01T02:09:07+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,140.0,96.0,177.1,2.07,3.5,Low Risk
+2026-01-01T17:37:50+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,136.0,87.0,139.1,2.36,3.5,Low Risk
+2026-01-02T03:21:11+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,143.0,97.0,155.0,1.58,4.0,Low Risk
+2026-01-01T04:41:15+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,131.0,94.0,175.8,1.66,3.0,Low Risk
+2026-01-01T11:07:38+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,130.0,79.0,154.1,2.41,3.0,Low Risk
+2026-01-02T08:30:38+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,133.0,92.0,145.9,2.28,3.5,Low Risk
+2026-01-01T22:49:25+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,149.0,102.0,186.1,2.15,4.5,Low Risk
+2026-01-02T04:34:51+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,139.0,86.0,173.0,2.36,3.5,Low Risk
+2026-01-02T02:21:07+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,126.0,81.0,174.0,1.73,2.0,Low Risk
+2026-01-02T09:13:19+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,155.0,105.0,172.5,1.74,4.0,Low Risk
+2026-01-01T13:24:51+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,131.0,78.0,177.8,2.4,3.5,Low Risk
+2026-01-02T00:34:03+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,137.0,92.0,187.8,2.85,4.0,Low Risk
+2026-01-01T02:12:38+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,137.0,98.0,186.7,2.46,4.0,Low Risk
+2026-01-01T16:06:09+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,129.0,92.0,190.7,1.72,2.0,Low Risk
+2026-01-01T07:14:04+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,145.0,91.0,180.0,1.82,4.0,Low Risk
+2026-01-01T16:59:10+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,151.0,91.0,165.4,2.06,4.5,Low Risk
+2026-01-01T17:12:58+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,154.0,111.0,169.0,2.47,5.0,Low Risk
+2026-01-01T21:10:24+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,132.0,86.0,161.5,2.5,4.0,Low Risk
+2026-01-02T11:32:20+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,140.0,104.0,175.9,2.06,3.5,Low Risk
+2026-01-02T06:57:22+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,139.0,82.0,161.1,1.59,3.0,Low Risk
+2026-01-01T12:01:15+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,148.0,94.0,199.5,1.5,4.0,Low Risk
+2026-01-01T16:18:30+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,156.0,92.0,149.6,2.85,5.0,Low Risk
+2026-01-02T07:27:42+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,122.0,79.0,129.9,2.2,2.5,Low Risk
+2026-01-01T08:45:39+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,154.0,98.0,157.3,2.58,5.0,Low Risk
+2026-01-01T11:03:43+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,120.0,79.0,171.2,2.26,2.5,Low Risk
+2026-01-01T06:51:30+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,153.0,94.0,202.5,2.39,4.5,Low Risk
+2026-01-02T01:14:14+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,137.0,90.0,173.0,2.41,4.0,Low Risk
+2026-01-02T09:03:08+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,93.0,173.7,2.13,4.5,Low Risk
+2026-01-01T05:40:01+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,131.0,76.0,192.5,2.78,4.0,Low Risk
+2026-01-02T08:01:31+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,154.0,98.0,139.6,3.12,5.0,Low Risk
+2026-01-02T06:54:05+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,118.0,71.0,197.3,2.15,2.5,Low Risk
+2026-01-01T02:31:17+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,156.0,95.0,141.0,2.35,4.5,Low Risk
+2026-01-01T19:57:47+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,97.0,175.8,2.34,4.5,Low Risk
+2026-01-01T19:28:01+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,140.0,88.0,158.7,3.04,4.0,Low Risk
+2026-01-01T11:57:13+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,140.0,87.0,161.0,2.19,3.5,Low Risk
+2026-01-02T00:10:49+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,84.0,122.9,2.61,5.0,Low Risk
+2026-01-02T00:09:30+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,112.0,71.0,190.0,1.9,2.0,Low Risk
+2026-01-01T03:31:55+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,141.0,89.0,131.3,1.77,4.0,Low Risk
+2026-01-01T05:37:56+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,147.0,92.0,179.2,1.7,4.0,Low Risk
+2026-01-01T00:42:29+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,123.0,78.0,167.2,2.47,3.0,Low Risk
+2026-01-01T20:08:23+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,135.0,84.0,146.8,2.39,3.5,Low Risk
+2026-01-01T12:45:38+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,122.0,75.0,148.7,1.91,2.0,Low Risk
+2026-01-02T08:07:32+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,137.0,94.0,179.6,1.53,3.0,Low Risk
+2026-01-01T09:15:02+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,138.0,96.0,170.7,2.17,3.5,Low Risk
+2026-01-01T16:36:06+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,162.0,99.0,181.5,1.8,5.0,Low Risk
+2026-01-01T17:09:36+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,127.0,85.0,156.3,2.27,2.5,Low Risk
+2026-01-01T07:09:25+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,143.0,95.0,132.9,2.68,5.0,Low Risk
+2026-01-02T11:43:44+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,144.0,94.0,142.2,1.09,4.0,Low Risk
+2026-01-01T00:50:22+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,140.0,89.0,144.6,1.86,3.0,Low Risk
+2026-01-01T00:42:56+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,106.0,64.0,174.0,2.37,2.5,Low Risk
+2026-01-01T03:00:20+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,154.0,102.0,190.4,1.33,4.0,Low Risk
+2026-01-01T10:44:08+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,127.0,84.0,157.1,2.27,2.5,Low Risk
+2026-01-01T08:22:25+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,86.0,172.0,2.71,5.0,Low Risk
+2026-01-01T17:17:19+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,134.0,83.0,173.2,2.15,3.5,Low Risk
+2026-01-01T10:39:41+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,141.0,84.0,181.1,2.45,5.0,Low Risk
+2026-01-01T18:07:32+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,148.0,93.0,148.5,2.6,5.0,Low Risk
+2026-01-01T16:20:27+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,151.0,100.0,176.8,2.66,5.0,Low Risk
+2026-01-01T23:44:50+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,138.0,93.0,154.9,3.14,4.0,Low Risk
+2026-01-01T22:05:49+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,146.0,89.0,191.8,1.53,4.0,Low Risk
+2026-01-02T03:20:38+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,145.0,101.0,145.0,2.19,4.5,Low Risk
+2026-01-02T08:04:07+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,135.0,87.0,157.9,2.91,4.0,Low Risk
+2026-01-01T03:34:06+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,139.0,90.0,156.9,2.65,4.0,Low Risk
+2026-01-02T03:05:13+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,163.0,107.0,177.3,2.33,5.5,Low Risk
+2026-01-01T14:54:06+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,135.0,91.0,151.1,2.45,4.0,Low Risk
+2026-01-02T05:48:48+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,134.0,89.0,133.6,1.44,3.0,Low Risk
+2026-01-02T12:23:51+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,160.0,106.0,159.1,2.56,5.0,Low Risk
+2026-01-01T08:23:27+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,150.0,101.0,172.1,2.44,5.0,Low Risk
+2026-01-01T13:20:37+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,132.0,84.0,161.0,2.38,3.5,Low Risk
+2026-01-01T06:07:04+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,130.0,87.0,211.5,2.24,2.5,Low Risk
+2026-01-01T15:24:49+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,146.0,94.0,183.6,1.9,4.0,Low Risk
+2026-01-02T07:35:40+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,123.0,74.0,172.4,3.4,3.0,Low Risk
+2026-01-01T19:46:23+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,151.0,104.0,154.4,2.59,5.0,Low Risk
+2026-01-01T08:57:55+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,138.0,104.0,164.4,2.16,3.5,Low Risk
+2026-01-01T18:54:01+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,128.0,69.0,219.7,2.7,3.0,Low Risk
+2026-01-02T10:55:22+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,135.0,90.0,167.4,2.78,4.0,Low Risk
+2026-01-01T17:24:47+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,124.0,78.0,180.4,2.83,3.0,Low Risk
+2026-01-02T06:19:56+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,149.0,93.0,164.9,2.27,4.5,Low Risk
+2026-01-02T08:19:29+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,150.0,86.0,175.7,1.8,4.0,Low Risk
+2026-01-01T21:09:55+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,142.0,89.0,123.9,2.13,4.5,Low Risk
+2026-01-01T04:17:33+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,110.0,81.0,152.1,2.08,2.5,Low Risk
+2026-01-01T19:18:46+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,138.0,95.0,149.2,2.5,4.0,Low Risk
+2026-01-01T14:11:35+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,141.0,90.0,181.2,1.68,4.0,Low Risk
+2026-01-01T04:13:09+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,133.0,82.0,171.2,2.19,3.5,Low Risk
+2026-01-01T02:14:18+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,137.0,84.0,191.6,2.42,4.0,Low Risk
+2026-01-01T07:19:35+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,152.0,99.0,146.6,2.09,4.5,Low Risk
+2026-01-01T18:39:29+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,113.0,81.0,183.5,2.27,2.5,Low Risk
+2026-01-02T05:27:55+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,128.0,98.0,177.9,2.46,3.0,Low Risk
+2026-01-02T11:57:09+01:00,Maggie-Philippine Grondin,48,female,,Diabetes Type 1,135.0,96.0,141.7,2.51,4.0,Low Risk
+2026-01-02T13:56:24+01:00,Adrien de Renaud,66,male,,Diabetes None,140.0,92.0,116.7,1.44,2.0,Low Risk
+2026-01-02T13:56:29+01:00,Jules Chauvin,84,male,,Diabetes Type 1,152.0,92.0,185.5,3.01,6.5,High Risk
+2026-01-02T13:56:34+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,137.0,95.0,189.9,1.11,3.5,Low Risk
+2026-01-02T13:56:39+01:00,Constance Gillet,50,female,,Diabetes None,126.0,77.0,114.7,2.31,0.5,Low Risk
+2026-01-02T13:56:44+01:00,Frédéric Le Barre,54,male,,Diabetes None,118.0,76.0,74.4,1.75,1.0,Low Risk
+2026-01-02T13:56:49+01:00,Frédéric Le Barre,54,male,,Diabetes None,142.0,89.0,62.6,1.75,3.0,Low Risk
+2026-01-02T13:56:54+01:00,Éléonore Bigot,59,female,,Diabetes None,125.0,83.0,86.4,2.76,2.0,Low Risk
+2026-01-02T13:56:59+01:00,Constance Gillet,50,female,,Diabetes None,117.0,73.0,108.0,2.31,0.5,Low Risk
+2026-01-02T13:57:04+01:00,Eugène Joly,56,male,,Diabetes None,155.0,104.0,83.6,1.79,3.0,Low Risk
+2026-01-02T13:57:09+01:00,Frédéric Le Barre,54,male,,Diabetes None,109.0,77.0,105.1,1.75,1.0,Low Risk
+2026-01-02T13:57:14+01:00,Élodie Maréchal,42,female,,Diabetes None,118.0,71.0,100.7,2.57,1.0,Low Risk
+2026-01-02T13:57:19+01:00,Michèle Roy,75,female,,Diabetes None,133.0,94.0,76.8,1.74,2.0,Low Risk
+2026-01-02T13:57:24+01:00,Jules Chauvin,84,male,,Diabetes Type 1,151.0,100.0,115.5,3.01,6.5,High Risk
+2026-01-02T13:57:29+01:00,Constance Gillet,50,female,,Diabetes None,156.0,103.0,80.7,2.31,2.5,Low Risk
+2026-01-02T13:57:34+01:00,Éléonore Bigot,59,female,,Diabetes None,137.0,92.0,53.2,2.76,3.0,Low Risk
+2026-01-02T13:57:39+01:00,Élodie Maréchal,42,female,,Diabetes None,135.0,77.0,90.0,2.57,2.0,Low Risk
+2026-01-02T13:57:44+01:00,Frédéric Le Barre,54,male,,Diabetes None,118.0,71.0,107.6,1.75,1.0,Low Risk
+2026-01-02T13:57:49+01:00,Michèle Roy,75,female,,Diabetes None,134.0,84.0,130.2,1.74,2.0,Low Risk
+2026-01-02T13:57:54+01:00,Anouk Bousquet,65,female,,Diabetes None,136.0,83.0,88.4,2.07,2.5,Low Risk
+2026-01-02T13:57:59+01:00,Constance Gillet,50,female,,Diabetes None,139.0,90.0,88.0,2.31,1.5,Low Risk
+2026-01-02T13:58:04+01:00,Michèle Roy,75,female,,Diabetes None,138.0,89.0,95.9,1.74,2.0,Low Risk
+2026-01-02T13:58:09+01:00,Frédéric Le Barre,54,male,,Diabetes None,141.0,96.0,106.4,1.75,3.0,Low Risk
+2026-01-02T13:58:14+01:00,Constance Gillet,50,female,,Diabetes None,138.0,80.0,97.0,2.31,1.5,Low Risk
+2026-01-02T13:58:19+01:00,Adrien de Renaud,66,male,,Diabetes None,160.0,108.0,95.4,1.44,3.0,Low Risk
+2026-01-02T13:58:24+01:00,Adrien de Renaud,66,male,,Diabetes None,132.0,86.0,71.0,1.44,2.0,Low Risk
+2026-01-02T13:58:29+01:00,Jules Chauvin,84,male,,Diabetes Type 1,145.0,98.0,147.7,3.01,6.5,High Risk
+2026-01-02T13:58:34+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,125.0,84.0,143.8,1.11,2.5,Low Risk
+2026-01-02T13:58:39+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,140.0,93.0,171.7,1.11,3.5,Low Risk
+2026-01-02T13:58:44+01:00,Élodie Maréchal,42,female,,Diabetes None,122.0,69.0,79.2,2.57,1.0,Low Risk
+2026-01-02T13:58:49+01:00,Anouk Bousquet,65,female,,Diabetes None,146.0,93.0,79.0,2.07,3.5,Low Risk
+2026-01-02T13:58:54+01:00,Éléonore Bigot,59,female,,Diabetes None,140.0,91.0,111.9,2.76,3.0,Low Risk
+2026-01-02T13:58:59+01:00,Anouk Bousquet,65,female,,Diabetes None,149.0,90.0,85.9,2.07,3.5,Low Risk
+2026-01-02T13:59:04+01:00,Eugène Joly,56,male,,Diabetes None,159.0,104.0,89.9,1.79,3.0,Low Risk
+2026-01-02T13:59:09+01:00,Constance Gillet,50,female,,Diabetes None,136.0,73.0,81.2,2.31,1.5,Low Risk
+2026-01-02T13:59:14+01:00,Eugène Joly,56,male,,Diabetes None,131.0,80.0,90.8,1.79,2.0,Low Risk
+2026-01-02T13:59:19+01:00,Adrien de Renaud,66,male,,Diabetes None,133.0,90.0,92.2,1.44,2.0,Low Risk
+2026-01-02T13:59:24+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,130.0,92.0,173.0,1.11,2.5,Low Risk
+2026-01-02T13:59:29+01:00,Anouk Bousquet,65,female,,Diabetes None,154.0,105.0,91.5,2.07,3.5,Low Risk
+2026-01-02T13:59:34+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,164.0,101.0,174.0,1.11,5.5,Low Risk
+2026-01-02T13:59:39+01:00,Anouk Bousquet,65,female,,Diabetes None,144.0,89.0,97.4,2.07,3.5,Low Risk
+2026-01-02T13:59:44+01:00,Frédéric Le Barre,54,male,,Diabetes None,139.0,85.0,78.7,1.75,2.0,Low Risk
+2026-01-02T13:59:49+01:00,Éléonore Bigot,59,female,,Diabetes None,131.0,98.0,122.1,2.76,3.0,Low Risk
+2026-01-02T13:59:54+01:00,Frédéric Le Barre,54,male,,Diabetes None,132.0,79.0,98.6,1.75,2.0,Low Risk
+2026-01-02T13:59:59+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,160.0,118.0,178.7,1.11,4.5,Low Risk
+2026-01-02T14:00:04+01:00,Élodie Maréchal,42,female,,Diabetes None,137.0,89.0,83.7,2.57,2.0,Low Risk
+2026-01-02T14:00:09+01:00,Constance Gillet,50,female,,Diabetes None,139.0,93.0,122.5,2.31,1.5,Low Risk
+2026-01-02T14:00:14+01:00,Constance Gillet,50,female,,Diabetes None,134.0,86.0,72.6,2.31,1.5,Low Risk
+2026-01-02T14:00:19+01:00,Eugène Joly,56,male,,Diabetes None,147.0,97.0,89.5,1.79,3.0,Low Risk
+2026-01-02T14:00:24+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,123.0,83.0,190.2,1.11,2.5,Low Risk
+2026-01-02T14:00:29+01:00,Éléonore Bigot,59,female,,Diabetes None,149.0,100.0,102.9,2.76,4.0,Low Risk
+2026-01-02T14:00:34+01:00,Adrien de Renaud,66,male,,Diabetes None,139.0,92.0,112.9,1.44,2.0,Low Risk
+2026-01-02T14:00:39+01:00,Éléonore Bigot,59,female,,Diabetes None,114.0,74.0,98.4,2.76,2.0,Low Risk
+2026-01-02T14:00:44+01:00,Éléonore Bigot,59,female,,Diabetes None,121.0,88.0,90.1,2.76,2.0,Low Risk
+2026-01-02T14:00:49+01:00,Frédéric Le Barre,54,male,,Diabetes None,115.0,70.0,128.6,1.75,1.0,Low Risk
+2026-01-02T14:00:54+01:00,Constance Gillet,50,female,,Diabetes None,139.0,92.0,82.6,2.31,1.5,Low Risk
+2026-01-02T14:00:59+01:00,Eugène Joly,56,male,,Diabetes None,136.0,93.0,106.8,1.79,2.0,Low Risk
+2026-01-02T14:01:04+01:00,Éléonore Bigot,59,female,,Diabetes None,139.0,87.0,86.5,2.76,3.0,Low Risk
+2026-01-02T14:01:09+01:00,Élodie Maréchal,42,female,,Diabetes None,135.0,90.0,91.7,2.57,2.0,Low Risk
+2026-01-02T14:01:14+01:00,Michèle Roy,75,female,,Diabetes None,147.0,90.0,84.0,1.74,3.0,Low Risk
+2026-01-02T14:01:19+01:00,Éléonore Bigot,59,female,,Diabetes None,122.0,71.0,101.6,2.76,2.0,Low Risk
+2026-01-02T14:01:24+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,146.0,97.0,160.0,1.11,4.5,Low Risk
+2026-01-02T14:01:29+01:00,Anouk Bousquet,65,female,,Diabetes None,131.0,83.0,110.4,2.07,2.5,Low Risk
+2026-01-02T14:01:34+01:00,Adrien de Renaud,66,male,,Diabetes None,150.0,98.0,67.6,1.44,3.0,Low Risk
+2026-01-02T14:01:39+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,117.0,73.0,188.1,1.11,2.5,Low Risk
+2026-01-02T14:01:44+01:00,Jules Chauvin,84,male,,Diabetes Type 1,165.0,94.0,178.5,3.01,7.5,High Risk
+2026-01-02T14:01:49+01:00,Jules Chauvin,84,male,,Diabetes Type 1,152.0,94.0,178.9,3.01,6.5,High Risk
+2026-01-02T14:01:54+01:00,Michèle Roy,75,female,,Diabetes None,144.0,91.0,108.8,1.74,3.0,Low Risk
+2026-01-02T14:01:59+01:00,Michèle Roy,75,female,,Diabetes None,146.0,96.0,112.4,1.74,3.0,Low Risk
+2026-01-02T14:02:04+01:00,Adrien de Renaud,66,male,,Diabetes None,133.0,93.0,65.3,1.44,2.0,Low Risk
+2026-01-02T14:02:09+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,142.0,100.0,165.8,1.11,4.5,Low Risk
+2026-01-02T14:02:14+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,147.0,92.0,141.2,1.11,4.5,Low Risk
+2026-01-02T14:02:19+01:00,Anouk Bousquet,65,female,,Diabetes None,167.0,104.0,63.9,2.07,4.5,Low Risk
+2026-01-02T14:02:24+01:00,Michèle Roy,75,female,,Diabetes None,136.0,92.0,105.1,1.74,2.0,Low Risk
+2026-01-02T14:02:29+01:00,Constance Gillet,50,female,,Diabetes None,114.0,74.0,99.7,2.31,0.5,Low Risk
+2026-01-02T14:02:34+01:00,Frédéric Le Barre,54,male,,Diabetes None,160.0,100.0,99.0,1.75,3.0,Low Risk
+2026-01-02T14:02:39+01:00,Jules Chauvin,84,male,,Diabetes Type 1,154.0,92.0,210.8,3.01,6.5,High Risk
+2026-01-02T14:02:44+01:00,Constance Gillet,50,female,,Diabetes None,135.0,80.0,78.9,2.31,1.5,Low Risk
+2026-01-02T14:02:49+01:00,Adrien de Renaud,66,male,,Diabetes None,152.0,102.0,107.0,1.44,3.0,Low Risk
+2026-01-02T14:02:54+01:00,Constance Gillet,50,female,,Diabetes None,133.0,86.0,83.3,2.31,1.5,Low Risk
+2026-01-02T14:02:59+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,158.0,99.0,186.9,1.11,4.5,Low Risk
+2026-01-02T14:03:04+01:00,Eugène Joly,56,male,,Diabetes None,122.0,78.0,114.1,1.79,1.0,Low Risk
+2026-01-02T14:03:09+01:00,Michèle Roy,75,female,,Diabetes None,144.0,96.0,77.6,1.74,3.0,Low Risk
+2026-01-02T14:03:14+01:00,Constance Gillet,50,female,,Diabetes None,137.0,95.0,106.1,2.31,1.5,Low Risk
+2026-01-02T14:03:19+01:00,Adrien de Renaud,66,male,,Diabetes None,151.0,94.0,94.4,1.44,3.0,Low Risk
+2026-01-02T14:03:24+01:00,Constance Gillet,50,female,,Diabetes None,145.0,92.0,65.2,2.31,2.5,Low Risk
+2026-01-02T14:03:30+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,147.0,101.0,165.3,1.11,4.5,Low Risk
+2026-01-02T14:03:35+01:00,Jules Chauvin,84,male,,Diabetes Type 1,146.0,94.0,152.6,3.01,6.5,High Risk
+2026-01-02T14:03:40+01:00,Éléonore Bigot,59,female,,Diabetes None,119.0,73.0,112.5,2.76,2.0,Low Risk
+2026-01-02T14:03:45+01:00,Frédéric Le Barre,54,male,,Diabetes None,117.0,77.0,87.8,1.75,1.0,Low Risk
+2026-01-02T14:03:50+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,114.0,74.0,177.6,1.11,2.5,Low Risk
+2026-01-02T14:03:55+01:00,Frédéric Le Barre,54,male,,Diabetes None,134.0,78.0,84.7,1.75,2.0,Low Risk
+2026-01-02T14:04:00+01:00,Frédéric Le Barre,54,male,,Diabetes None,143.0,89.0,113.7,1.75,3.0,Low Risk
+2026-01-02T14:04:05+01:00,Tristan Gaudin,64,male,,Diabetes Type 2,134.0,89.0,160.6,1.11,3.5,Low Risk
+2026-01-02T14:04:10+01:00,Anouk Bousquet,65,female,,Diabetes None,149.0,98.0,93.5,2.07,3.5,Low Risk
+2026-01-02T14:16:12.066410+01:00,Sabine Chevallier-Ramos,33,female,,Diabetes None,116.0,75.0,96.0,2.28,0.5,Low Risk
+2026-01-02T14:16:17.181155+01:00,Lucas Leclerc,76,male,,Diabetes None,131.0,89.0,89.8,1.89,2.5,Low Risk
+2026-01-02T14:16:22.186250+01:00,Lucas Leclerc,76,male,,Diabetes None,133.0,86.0,97.2,1.89,2.5,Low Risk
+2026-01-02T14:16:27.187716+01:00,Sabine Chevallier-Ramos,33,female,,Diabetes None,112.0,65.0,48.6,2.28,0.5,Low Risk
+2026-01-02T14:16:32.189294+01:00,Lorraine Legros,64,female,,Diabetes None,124.0,84.0,74.1,2.35,1.5,Low Risk
+2026-01-02T14:16:37.191302+01:00,Philippine Lucas,71,female,,Diabetes None,152.0,94.0,63.1,2.53,4.0,Low Risk
+2026-01-02T14:16:42.195212+01:00,Thérèse Carlier,58,female,,Diabetes None,137.0,88.0,91.3,2.55,3.0,Low Risk
+2026-01-02T14:16:47.197897+01:00,Alphonse Roger,71,male,,Diabetes None,172.0,111.0,107.8,1.79,4.0,Low Risk
+2026-01-02T14:16:52.199953+01:00,Philippine Lucas,71,female,,Diabetes None,150.0,101.0,104.1,2.53,4.0,Low Risk
+2026-01-02T14:16:57.201829+01:00,Augustin du Huet,61,male,,Diabetes None,121.0,79.0,68.3,2.66,2.0,Low Risk
+2026-01-02T14:17:02.205990+01:00,Philippine Lucas,71,female,,Diabetes None,142.0,87.0,67.4,2.53,4.0,Low Risk
+2026-01-02T14:17:07.212737+01:00,Philippine Lucas,71,female,,Diabetes None,154.0,91.0,95.7,2.53,4.0,Low Risk
+2026-01-02T14:17:12.214435+01:00,Bernard Guillot,57,male,,Diabetes None,114.0,75.0,97.7,2.19,1.5,Low Risk
+2026-01-02T14:17:17.221639+01:00,Théophile Charrier,79,male,,Diabetes None,150.0,99.0,87.8,1.89,3.5,Low Risk
+2026-01-02T14:17:22.227122+01:00,Thérèse Carlier,58,female,,Diabetes None,141.0,88.0,104.6,2.55,4.0,Low Risk
+2026-01-02T14:17:27.229532+01:00,Philippine Lucas,71,female,,Diabetes None,154.0,92.0,89.3,2.53,4.0,Low Risk
+2026-01-02T14:17:32.231241+01:00,Éléonore Leroux,49,female,,Diabetes None,138.0,95.0,61.8,2.1,1.5,Low Risk
+2026-01-02T14:17:37.236563+01:00,Théophile Charrier,79,male,,Diabetes None,151.0,95.0,74.5,1.89,3.5,Low Risk
+2026-01-02T14:17:42.240833+01:00,Sabine Chevallier-Ramos,33,female,,Diabetes None,122.0,92.0,111.5,2.28,0.5,Low Risk
+2026-01-02T14:17:47.244897+01:00,Alphonse Roger,71,male,,Diabetes None,144.0,100.0,79.7,1.79,3.0,Low Risk
+2026-01-02T14:17:52.247606+01:00,Philippine Lucas,71,female,,Diabetes None,144.0,90.0,83.8,2.53,4.0,Low Risk
+2026-01-02T14:17:57.249801+01:00,Éléonore Leroux,49,female,,Diabetes None,136.0,86.0,103.6,2.1,1.5,Low Risk
+2026-01-02T14:18:02.254505+01:00,Augustin du Huet,61,male,,Diabetes None,111.0,63.0,100.3,2.66,2.0,Low Risk
+2026-01-02T14:18:07.256414+01:00,Éléonore Leroux,49,female,,Diabetes None,120.0,68.0,83.1,2.1,0.5,Low Risk
+2026-01-02T14:18:12.262006+01:00,Lucas Leclerc,76,male,,Diabetes None,134.0,88.0,119.4,1.89,2.5,Low Risk
+2026-01-02T14:18:17.263155+01:00,Philippine Lucas,71,female,,Diabetes None,145.0,94.0,94.6,2.53,4.0,Low Risk
+2026-01-02T14:18:22.266289+01:00,Lucas Leclerc,76,male,,Diabetes None,141.0,89.0,73.7,1.89,3.5,Low Risk
+2026-01-02T14:18:27.271211+01:00,Théophile Charrier,79,male,,Diabetes None,142.0,91.0,60.3,1.89,3.5,Low Risk
+2026-01-02T14:18:32.272775+01:00,Thérèse Carlier,58,female,,Diabetes None,141.0,91.0,101.7,2.55,4.0,Low Risk
+2026-01-02T14:18:37.278829+01:00,Sabine Chevallier-Ramos,33,female,,Diabetes None,119.0,83.0,132.6,2.28,0.5,Low Risk
+2026-01-02T14:18:42.280976+01:00,Lucas Leclerc,76,male,,Diabetes None,137.0,92.0,123.9,1.89,2.5,Low Risk
+2026-01-02T14:18:47.285357+01:00,Sabine Chevallier-Ramos,33,female,,Diabetes None,118.0,65.0,96.5,2.28,0.5,Low Risk
+2026-01-02T14:18:52.290723+01:00,Lorraine Legros,64,female,,Diabetes None,136.0,97.0,60.9,2.35,2.5,Low Risk
+2026-01-02T14:18:57.293411+01:00,Sabine Chevallier-Ramos,33,female,,Diabetes None,117.0,79.0,114.2,2.28,0.5,Low Risk
+2026-01-02T14:19:02.295879+01:00,Bernard Guillot,57,male,,Diabetes None,135.0,86.0,85.6,2.19,2.5,Low Risk
+2026-01-02T14:19:07.299405+01:00,Théophile Charrier,79,male,,Diabetes None,142.0,86.0,74.4,1.89,3.5,Low Risk
+2026-01-02T14:19:12.301410+01:00,Philippine Lucas,71,female,,Diabetes None,143.0,93.0,99.7,2.53,4.0,Low Risk
+2026-01-02T14:19:17.303073+01:00,Lucas Leclerc,76,male,,Diabetes None,129.0,78.0,123.7,1.89,1.5,Low Risk
+2026-01-02T14:19:22.308036+01:00,Philippine Lucas,71,female,,Diabetes None,129.0,96.0,122.5,2.53,2.0,Low Risk
+2026-01-02T14:19:27.312898+01:00,Philippine Lucas,71,female,,Diabetes None,139.0,82.0,80.9,2.53,3.0,Low Risk
+2026-01-02T14:19:32.317753+01:00,Thérèse Carlier,58,female,,Diabetes None,123.0,80.0,89.3,2.55,2.0,Low Risk
+2026-01-02T14:19:37.320390+01:00,Augustin du Huet,61,male,,Diabetes None,135.0,88.0,102.4,2.66,3.0,Low Risk
+2026-01-02T14:19:42.322082+01:00,Lorraine Legros,64,female,,Diabetes None,125.0,79.0,55.0,2.35,1.5,Low Risk
+2026-01-02T14:19:47.323877+01:00,Lorraine Legros,64,female,,Diabetes None,152.0,99.0,113.6,2.35,3.5,Low Risk
+2026-01-02T14:19:52.328465+01:00,Bernard Guillot,57,male,,Diabetes None,140.0,87.0,130.9,2.19,2.5,Low Risk
+2026-01-02T14:19:57.334457+01:00,Théophile Charrier,79,male,,Diabetes None,136.0,84.0,93.1,1.89,2.5,Low Risk
+2026-01-02T14:20:02.336162+01:00,Alphonse Roger,71,male,,Diabetes None,140.0,88.0,89.1,1.79,2.0,Low Risk
+2026-01-02T14:20:07.337682+01:00,Lorraine Legros,64,female,,Diabetes None,139.0,100.0,90.1,2.35,2.5,Low Risk
+2026-01-02T14:20:12.342392+01:00,Alphonse Roger,71,male,,Diabetes None,153.0,108.0,94.4,1.79,3.0,Low Risk
+2026-01-02T14:20:17.344037+01:00,Éléonore Leroux,49,female,,Diabetes None,124.0,83.0,73.3,2.1,0.5,Low Risk
+2026-01-02T14:20:22.345800+01:00,Lorraine Legros,64,female,,Diabetes None,114.0,69.0,88.9,2.35,1.5,Low Risk
+2026-01-02T14:20:55.207885+01:00,Capucine Renault-Diallo,87,female,,Diabetes None,148.0,96.0,110.3,2.36,4.0,Low Risk
+2026-01-02T14:21:00.329939+01:00,Claudine de Fernandes,72,female,,Diabetes None,142.0,88.0,103.3,2.08,3.5,Low Risk
+2026-01-02T14:21:05.331343+01:00,Benjamin Rémy,77,male,,Diabetes Type 2,159.0,113.0,139.3,1.98,5.0,Low Risk
+2026-01-02T14:21:10.332691+01:00,Emmanuelle Joly,62,female,,Diabetes None,123.0,78.0,104.8,2.83,2.0,Low Risk
+2026-01-02T14:21:15.334593+01:00,Bertrand Lévy,47,male,,Diabetes Type 2,145.0,96.0,174.3,1.0,3.5,Low Risk
+2026-01-02T14:21:20.336033+01:00,Thibaut Faure,75,male,,Diabetes None,143.0,95.0,124.7,1.98,3.0,Low Risk
+2026-01-02T14:21:25.339411+01:00,Claudine de Fernandes,72,female,,Diabetes None,141.0,90.0,66.3,2.08,3.5,Low Risk
+2026-01-02T14:21:30.341458+01:00,Bertrand Lévy,47,male,,Diabetes Type 2,144.0,94.0,138.5,1.0,3.5,Low Risk
+2026-01-02T14:21:35.343126+01:00,Bertrand Lévy,47,male,,Diabetes Type 2,116.0,71.0,168.0,1.0,1.5,Low Risk
+2026-01-02T14:21:40.344778+01:00,Capucine Renault-Diallo,87,female,,Diabetes None,125.0,81.0,108.5,2.36,2.0,Low Risk
+2026-01-02T14:21:45.346294+01:00,Denis Bousquet,33,male,,Diabetes None,87.0,61.0,99.0,1.65,0.0,Low Risk
+2026-01-02T14:21:50.349674+01:00,Bertrand Lévy,47,male,,Diabetes Type 2,152.0,100.0,145.5,1.0,3.5,Low Risk
+2026-01-02T14:21:55.352966+01:00,Thibaut Faure,75,male,,Diabetes None,133.0,88.0,95.7,1.98,2.0,Low Risk
+2026-01-02T14:22:00.355587+01:00,Célina Bertrand,68,female,,Diabetes None,146.0,95.0,89.1,2.29,3.5,Low Risk
+2026-01-02T14:22:05.386761+01:00,Claudine de Fernandes,72,female,,Diabetes None,161.0,100.0,104.4,2.08,4.5,Low Risk
+2026-01-02T14:22:10.414411+01:00,Benjamin Rémy,77,male,,Diabetes Type 2,166.0,112.0,151.4,1.98,6.0,High Risk
+2026-01-02T14:22:15.419722+01:00,Emmanuelle Joly,62,female,,Diabetes None,134.0,92.0,99.4,2.83,3.0,Low Risk
+2026-01-02T14:22:20.421278+01:00,Denis Bousquet,33,male,,Diabetes None,111.0,64.0,114.7,1.65,0.0,Low Risk
+2026-01-02T14:22:25.422825+01:00,Denis Bousquet,33,male,,Diabetes None,144.0,85.0,68.7,1.65,2.0,Low Risk
+2026-01-02T14:22:30.427982+01:00,Emmanuelle Joly,62,female,,Diabetes None,140.0,90.0,67.0,2.83,3.0,Low Risk
+2026-01-02T14:22:35.434911+01:00,Emmanuelle Joly,62,female,,Diabetes None,115.0,72.0,111.4,2.83,2.0,Low Risk
+2026-01-02T14:22:40.439521+01:00,Célina Bertrand,68,female,,Diabetes None,150.0,100.0,79.8,2.29,3.5,Low Risk
+2026-01-02T14:22:45.441759+01:00,Jacqueline Girard,77,female,,Diabetes None,148.0,106.0,112.5,2.03,4.0,Low Risk
+2026-01-02T14:22:50.443435+01:00,Benjamin Rémy,77,male,,Diabetes Type 2,166.0,105.0,185.1,1.98,6.0,High Risk
+2026-01-02T14:22:55.445554+01:00,Benjamin Rémy,77,male,,Diabetes Type 2,176.0,120.0,140.5,1.98,6.0,High Risk
+2026-01-02T14:23:00.449514+01:00,Bertrand Lévy,47,male,,Diabetes Type 2,149.0,97.0,211.1,1.0,3.5,Low Risk
+2026-01-02T14:23:05.451547+01:00,Jacqueline Girard,77,female,,Diabetes None,140.0,92.0,106.9,2.03,3.0,Low Risk
+2026-01-02T14:23:10.453551+01:00,Capucine Renault-Diallo,87,female,,Diabetes None,159.0,108.0,88.1,2.36,4.0,Low Risk
+2026-01-02T14:23:15.455497+01:00,Thibaut Faure,75,male,,Diabetes None,137.0,95.0,143.4,1.98,2.0,Low Risk
+2026-01-02T14:23:20.461322+01:00,Célina Bertrand,68,female,,Diabetes None,136.0,97.0,111.7,2.29,2.5,Low Risk
+2026-01-02T14:23:25.463105+01:00,Benjamin Rémy,77,male,,Diabetes Type 2,154.0,114.0,144.9,1.98,5.0,Low Risk
+2026-01-02T14:23:30.466233+01:00,Claudine de Fernandes,72,female,,Diabetes None,138.0,94.0,96.9,2.08,2.5,Low Risk
+2026-01-02T14:23:35.469220+01:00,Célina Bertrand,68,female,,Diabetes None,139.0,87.0,108.5,2.29,2.5,Low Risk
+2026-01-02T14:23:40.471056+01:00,Capucine Renault-Diallo,87,female,,Diabetes None,152.0,100.0,122.3,2.36,4.0,Low Risk
+2026-01-02T14:23:45.477607+01:00,Claudine de Fernandes,72,female,,Diabetes None,146.0,96.0,105.0,2.08,3.5,Low Risk
+2026-01-02T14:23:50.483569+01:00,Denis Bousquet,33,male,,Diabetes None,125.0,84.0,84.7,1.65,0.0,Low Risk
+2026-01-02T14:23:55.488142+01:00,Claudine de Fernandes,72,female,,Diabetes None,137.0,73.0,100.8,2.08,2.5,Low Risk
+2026-01-02T14:24:00.494044+01:00,Benjamin Rémy,77,male,,Diabetes Type 2,126.0,85.0,126.5,1.98,3.0,Low Risk
+2026-01-02T14:24:05.497484+01:00,Célina Bertrand,68,female,,Diabetes None,133.0,80.0,84.8,2.29,2.5,Low Risk
+2026-01-02T14:24:10.499515+01:00,Denis Bousquet,33,male,,Diabetes None,116.0,62.0,109.5,1.65,0.0,Low Risk
+2026-01-02T14:24:15.501598+01:00,Capucine Renault-Diallo,87,female,,Diabetes None,138.0,87.0,62.8,2.36,3.0,Low Risk
+2026-01-02T14:24:20.505048+01:00,Emmanuelle Joly,62,female,,Diabetes None,122.0,80.0,133.9,2.83,2.0,Low Risk
+2026-01-02T14:24:25.512226+01:00,Rémy Camus Le Pascal,51,male,,Diabetes None,141.0,86.0,56.4,2.36,3.5,Low Risk
+2026-01-02T14:24:30.513785+01:00,Emmanuelle Joly,62,female,,Diabetes None,125.0,78.0,104.7,2.83,2.0,Low Risk
+2026-01-02T14:24:35.515488+01:00,Capucine Renault-Diallo,87,female,,Diabetes None,165.0,112.0,89.1,2.36,5.0,Low Risk
+2026-01-02T14:24:40.522109+01:00,Thibaut Faure,75,male,,Diabetes None,141.0,91.0,98.1,1.98,3.0,Low Risk
+2026-01-02T14:24:45.526272+01:00,Bertrand Lévy,47,male,,Diabetes Type 2,140.0,99.0,204.4,1.0,2.5,Low Risk
+2026-01-02T14:24:50.531858+01:00,Claudine de Fernandes,72,female,,Diabetes None,146.0,85.0,64.0,2.08,3.5,Low Risk
+2026-01-02T14:24:55.538584+01:00,Bertrand Lévy,47,male,,Diabetes Type 2,135.0,94.0,153.1,1.0,2.5,Low Risk
+2026-01-02T14:25:00.543575+01:00,Claudine de Fernandes,72,female,,Diabetes None,159.0,105.0,115.6,2.08,3.5,Low Risk
+2026-01-02T14:25:05.545128+01:00,Rémy Camus Le Pascal,51,male,,Diabetes None,121.0,75.0,57.6,2.36,1.5,Low Risk
+2026-01-02T14:25:10.550210+01:00,Rémy Camus Le Pascal,51,male,,Diabetes None,118.0,78.0,76.9,2.36,1.5,Low Risk
+2026-01-02T14:25:15.553288+01:00,Rémy Camus Le Pascal,51,male,,Diabetes None,154.0,99.0,60.6,2.36,3.5,Low Risk
+2026-01-02T14:25:20.558876+01:00,Jacqueline Girard,77,female,,Diabetes None,126.0,72.0,130.0,2.03,2.0,Low Risk
+2026-01-02T14:25:25.560504+01:00,Benjamin Rémy,77,male,,Diabetes Type 2,168.0,108.0,162.3,1.98,6.0,High Risk
+2026-01-02T14:25:30.565499+01:00,Rémy Camus Le Pascal,51,male,,Diabetes None,135.0,83.0,68.4,2.36,2.5,Low Risk
+2026-01-02T14:25:35.571006+01:00,Denis Bousquet,33,male,,Diabetes None,121.0,85.0,83.4,1.65,0.0,Low Risk
+2026-01-02T14:37:31.955408+01:00,Monique-Élise Salmon,39,female,,Diabetes None,137.0,91.0,84.3,2.06,1.5,Low Risk
+2026-01-02T14:37:37.064448+01:00,Geneviève Boulanger,73,female,,Diabetes None,157.0,101.0,83.9,2.44,4.0,Low Risk
+2026-01-02T14:37:42.066122+01:00,Isaac Thomas de la Andre,73,male,,Diabetes None,160.0,104.0,101.0,2.49,4.0,Low Risk
+2026-01-02T14:37:47.069007+01:00,David-Bertrand Hervé,60,male,,Diabetes None,129.0,79.0,106.2,1.95,1.0,Low Risk
+2026-01-02T14:37:52.073499+01:00,Victor Morin,88,male,,Diabetes None,155.0,106.0,78.6,1.69,3.5,Low Risk
+2026-01-02T14:37:57.075842+01:00,Monique-Élise Salmon,39,female,,Diabetes None,132.0,83.0,77.9,2.06,1.5,Low Risk
+2026-01-02T14:38:02.077579+01:00,Jeanne Collin,26,female,,Diabetes None,97.0,65.0,121.8,1.35,0.0,Low Risk
+2026-01-02T14:38:07.080510+01:00,Victor Morin,88,male,,Diabetes None,143.0,90.0,160.2,1.69,3.5,Low Risk
+2026-01-02T14:38:12.085847+01:00,Laurence-Capucine Martin,52,female,,Diabetes None,145.0,91.0,141.7,2.23,3.5,Low Risk
+2026-01-02T14:38:17.087617+01:00,Victor Morin,88,male,,Diabetes None,160.0,101.0,104.5,1.69,3.5,Low Risk
+2026-01-02T14:38:22.089447+01:00,Monique-Élise Salmon,39,female,,Diabetes None,139.0,95.0,97.1,2.06,1.5,Low Risk
+2026-01-02T14:38:27.095304+01:00,Isaac Gomes de la Joseph,48,male,,Diabetes None,135.0,91.0,105.9,2.55,2.0,Low Risk
+2026-01-02T14:38:32.096949+01:00,Laurence-Capucine Martin,52,female,,Diabetes None,134.0,93.0,121.7,2.23,2.5,Low Risk
+2026-01-02T14:38:37.098875+01:00,David-Bertrand Hervé,60,male,,Diabetes None,129.0,81.0,122.7,1.95,1.0,Low Risk
+2026-01-02T14:38:42.100125+01:00,Gilles Clément,80,male,,Diabetes None,134.0,88.0,66.8,2.4,3.0,Low Risk
+2026-01-02T14:38:47.106042+01:00,Gilles Clément,80,male,,Diabetes None,144.0,97.0,147.7,2.4,4.0,Low Risk
+2026-01-02T14:38:52.110787+01:00,Geneviève Boulanger,73,female,,Diabetes None,124.0,74.0,96.9,2.44,2.0,Low Risk
+2026-01-02T14:38:57.112177+01:00,Monique-Élise Salmon,39,female,,Diabetes None,114.0,75.0,78.5,2.06,0.5,Low Risk
+2026-01-02T14:39:02.115475+01:00,Isaac Thomas de la Andre,73,male,,Diabetes None,134.0,88.0,102.7,2.49,3.0,Low Risk
+2026-01-02T14:39:07.117137+01:00,Jeanne Collin,26,female,,Diabetes None,99.0,65.0,81.3,1.35,0.0,Low Risk
+2026-01-02T14:39:12.120327+01:00,David-Bertrand Hervé,60,male,,Diabetes None,132.0,80.0,73.3,1.95,2.0,Low Risk
+2026-01-02T14:39:17.122416+01:00,Geneviève Boulanger,73,female,,Diabetes None,152.0,95.0,115.0,2.44,4.0,Low Risk
+2026-01-02T14:39:22.124110+01:00,David-Bertrand Hervé,60,male,,Diabetes None,134.0,82.0,106.7,1.95,2.0,Low Risk
+2026-01-02T14:39:27.125667+01:00,Victor Morin,88,male,,Diabetes None,137.0,79.0,103.0,1.69,2.5,Low Risk
+2026-01-02T14:39:32.127612+01:00,Laurence-Capucine Martin,52,female,,Diabetes None,97.0,74.0,58.7,2.23,1.5,Low Risk
+2026-01-02T14:39:37.129361+01:00,Marc Le Riou,70,male,,Diabetes Type 2,135.0,88.0,162.6,2.45,4.5,Low Risk
+2026-01-02T14:39:42.130561+01:00,Jeanne Collin,26,female,,Diabetes None,121.0,75.0,108.2,1.35,0.0,Low Risk
+2026-01-02T14:39:47.132872+01:00,Victor Morin,88,male,,Diabetes None,157.0,100.0,111.4,1.69,3.5,Low Risk
+2026-01-02T14:39:52.135526+01:00,Laurence-Capucine Martin,52,female,,Diabetes None,146.0,98.0,97.3,2.23,3.5,Low Risk
+2026-01-02T14:39:57.141079+01:00,Jeanne Collin,26,female,,Diabetes None,119.0,83.0,76.2,1.35,0.0,Low Risk
+2026-01-02T14:40:02.142903+01:00,Laurence-Capucine Martin,52,female,,Diabetes None,127.0,83.0,74.1,2.23,1.5,Low Risk
+2026-01-02T14:40:07.144480+01:00,Isaac Gomes de la Joseph,48,male,,Diabetes None,127.0,92.0,73.0,2.55,1.0,Low Risk
+2026-01-02T14:40:12.145698+01:00,David-Bertrand Hervé,60,male,,Diabetes None,155.0,103.0,97.9,1.95,3.0,Low Risk
+2026-01-02T14:40:17.149232+01:00,Isaac Gomes de la Joseph,48,male,,Diabetes None,110.0,67.0,77.9,2.55,1.0,Low Risk
+2026-01-02T14:40:22.153897+01:00,Laurence-Capucine Martin,52,female,,Diabetes None,119.0,74.0,61.2,2.23,1.5,Low Risk
+2026-01-02T14:40:27.155703+01:00,Jeanne Collin,26,female,,Diabetes None,114.0,65.0,91.1,1.35,0.0,Low Risk
+2026-01-02T14:40:32.157830+01:00,Gilles Clément,80,male,,Diabetes None,149.0,92.0,96.4,2.4,4.0,Low Risk
+2026-01-02T14:40:37.158961+01:00,Victor Morin,88,male,,Diabetes None,156.0,99.0,79.7,1.69,3.5,Low Risk
+2026-01-02T14:40:42.160508+01:00,Jeanne Collin,26,female,,Diabetes None,98.0,57.0,85.3,1.35,0.0,Low Risk
+2026-01-02T14:40:47.165271+01:00,Gilles Clément,80,male,,Diabetes None,139.0,88.0,83.8,2.4,3.0,Low Risk
+2026-01-02T14:40:52.170491+01:00,Victor Morin,88,male,,Diabetes None,132.0,90.0,89.6,1.69,2.5,Low Risk
+2026-01-02T14:40:57.173532+01:00,Victor Morin,88,male,,Diabetes None,125.0,72.0,68.6,1.69,1.5,Low Risk
+2026-01-02T14:41:22.818948+01:00,Astrid du Carlier,66,female,,Diabetes None,142.0,92.0,115.6,1.89,3.0,Low Risk
+2026-01-02T14:41:27.928023+01:00,Jérôme Boulay,61,male,,Diabetes None,121.0,79.0,91.9,2.5,2.0,Low Risk
+2026-01-02T14:41:32.929879+01:00,Jean de la Rodriguez,66,male,,Diabetes None,168.0,101.0,76.4,2.8,5.0,Low Risk
+2026-01-02T14:41:37.931741+01:00,Jean de la Rodriguez,66,male,,Diabetes None,145.0,95.0,95.1,2.8,4.0,Low Risk
+2026-01-02T14:41:42.934087+01:00,Astrid du Carlier,66,female,,Diabetes None,151.0,96.0,99.3,1.89,3.0,Low Risk
+2026-01-02T14:41:47.936165+01:00,Michèle de Guichard,37,female,,Diabetes None,115.0,76.0,118.8,2.44,1.0,Low Risk
+2026-01-02T14:41:52.940666+01:00,Renée François-Turpin,51,female,,Diabetes None,133.0,84.0,91.6,2.53,3.0,Low Risk
+2026-01-02T14:41:57.946000+01:00,Gilles Lucas,20,male,,Diabetes None,115.0,72.0,105.0,2.0,0.0,Low Risk
+2026-01-02T14:42:02.951129+01:00,Honoré Dumas,60,male,,Diabetes None,129.0,79.0,85.2,2.62,2.0,Low Risk
+2026-01-02T14:42:07.953206+01:00,Astrid du Carlier,66,female,,Diabetes None,154.0,101.0,90.0,1.89,3.0,Low Risk
+2026-01-02T14:42:12.958312+01:00,Édith Buisson,61,female,,Diabetes None,129.0,79.0,97.5,2.48,2.0,Low Risk
+2026-01-02T14:42:17.960554+01:00,Diane Merle,68,female,,Diabetes Type 2,153.0,93.0,203.0,2.49,5.5,Low Risk
+2026-01-02T14:42:22.964678+01:00,Astrid du Carlier,66,female,,Diabetes None,150.0,103.0,60.3,1.89,3.0,Low Risk
+2026-01-02T14:42:27.969483+01:00,Édith Buisson,61,female,,Diabetes None,127.0,83.0,101.9,2.48,2.0,Low Risk
+2026-01-02T14:42:32.970896+01:00,Jean de la Rodriguez,66,male,,Diabetes None,140.0,87.0,107.7,2.8,3.0,Low Risk
+2026-01-02T14:42:37.976013+01:00,Diane Merle,68,female,,Diabetes Type 2,155.0,97.0,140.0,2.49,5.5,Low Risk
+2026-01-02T14:42:42.981367+01:00,Brigitte Carpentier,84,female,,Diabetes None,137.0,90.0,88.4,2.77,3.5,Low Risk
+2026-01-02T14:42:47.982902+01:00,Renée François-Turpin,51,female,,Diabetes None,129.0,80.0,110.0,2.53,2.0,Low Risk
+2026-01-02T14:42:52.984973+01:00,Astrid du Carlier,66,female,,Diabetes None,151.0,100.0,89.7,1.89,3.0,Low Risk
+2026-01-02T14:42:57.986724+01:00,Jérôme Boulay,61,male,,Diabetes None,118.0,63.0,106.8,2.5,2.0,Low Risk
+2026-01-02T14:43:02.988531+01:00,Jean de la Rodriguez,66,male,,Diabetes None,141.0,93.0,86.3,2.8,4.0,Low Risk
+2026-01-02T14:43:07.990798+01:00,Renée François-Turpin,51,female,,Diabetes None,132.0,93.0,123.0,2.53,3.0,Low Risk
+2026-01-02T14:43:12.992345+01:00,Honoré Dumas,60,male,,Diabetes None,114.0,78.0,127.3,2.62,2.0,Low Risk
+2026-01-02T14:43:17.994017+01:00,Brigitte Carpentier,84,female,,Diabetes None,121.0,76.0,116.9,2.77,2.5,Low Risk
+2026-01-02T14:43:22.996690+01:00,Jérôme Boulay,61,male,,Diabetes None,125.0,76.0,87.0,2.5,2.0,Low Risk
+2026-01-02T14:43:27.999046+01:00,Jean de la Rodriguez,66,male,,Diabetes None,132.0,91.0,83.2,2.8,3.0,Low Risk
+2026-01-02T14:43:33.000322+01:00,Renée François-Turpin,51,female,,Diabetes None,124.0,88.0,85.5,2.53,2.0,Low Risk
+2026-01-02T14:43:38.002745+01:00,Michèle de Guichard,37,female,,Diabetes None,108.0,66.0,81.3,2.44,1.0,Low Risk
+2026-01-02T14:43:43.005129+01:00,Jean de la Rodriguez,66,male,,Diabetes None,156.0,106.0,103.1,2.8,4.0,Low Risk
+2026-01-02T14:43:48.006752+01:00,Astrid du Carlier,66,female,,Diabetes None,163.0,104.0,88.8,1.89,4.0,Low Risk
+2026-01-02T14:43:53.008916+01:00,Astrid du Carlier,66,female,,Diabetes None,126.0,77.0,70.1,1.89,1.0,Low Risk
+2026-01-02T14:43:58.012878+01:00,Gilles Lucas,20,male,,Diabetes None,99.0,73.0,102.0,2.0,0.0,Low Risk
+2026-01-02T14:44:03.014376+01:00,Gilles Lucas,20,male,,Diabetes None,109.0,74.0,136.2,2.0,0.0,Low Risk
+2026-01-02T14:44:08.015843+01:00,Astrid du Carlier,66,female,,Diabetes None,176.0,114.0,106.4,1.89,4.0,Low Risk
+2026-01-02T14:44:13.017837+01:00,Jérôme Boulay,61,male,,Diabetes None,134.0,89.0,105.9,2.5,3.0,Low Risk
+2026-01-02T14:44:18.020674+01:00,Gilles Lucas,20,male,,Diabetes None,122.0,76.0,73.2,2.0,0.0,Low Risk
+2026-01-02T14:44:23.022861+01:00,Jérôme Boulay,61,male,,Diabetes None,134.0,82.0,130.3,2.5,3.0,Low Risk
+2026-01-02T14:44:28.026834+01:00,Diane Merle,68,female,,Diabetes Type 2,143.0,98.0,189.8,2.49,5.5,Low Risk
+2026-01-02T14:44:33.028864+01:00,Astrid du Carlier,66,female,,Diabetes None,154.0,97.0,50.6,1.89,3.0,Low Risk
+2026-01-02T14:44:38.030408+01:00,Honoré Dumas,60,male,,Diabetes None,140.0,90.0,102.0,2.62,3.0,Low Risk
+2026-01-02T14:44:43.036109+01:00,Diane Merle,68,female,,Diabetes Type 2,165.0,108.0,160.6,2.49,6.5,High Risk
+2026-01-02T14:44:48.041272+01:00,Michèle de Guichard,37,female,,Diabetes None,120.0,79.0,70.3,2.44,1.0,Low Risk
+2026-01-02T14:44:53.051795+01:00,Diane Merle,68,female,,Diabetes Type 2,169.0,108.0,167.6,2.49,6.5,High Risk
+2026-01-02T15:02:37.698707+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,132.0,81.0,106.9,2.4,2.5,Low Risk
+2026-01-02T15:02:42.835707+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,100.0,64.0,97.7,1.7,0.0,Low Risk
+2026-01-02T15:02:47.839553+01:00,Philippe Le Étienne,29,male,,Diabetes None,117.0,69.0,98.2,2.02,0.5,Low Risk
+2026-01-02T15:02:52.841647+01:00,Philippe Le Étienne,29,male,,Diabetes None,122.0,77.0,108.5,2.02,0.5,Low Risk
+2026-01-02T15:02:57.843556+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,119.0,75.0,115.2,2.09,2.0,Low Risk
+2026-01-02T15:03:02.845864+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,117.0,70.0,62.9,1.7,0.0,Low Risk
+2026-01-02T15:03:07.848447+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,122.0,78.0,66.9,2.01,0.5,Low Risk
+2026-01-02T15:03:12.862078+01:00,Anastasie Hernandez,81,female,,Diabetes None,136.0,91.0,82.9,2.79,3.5,Low Risk
+2026-01-02T15:03:17.865408+01:00,Philippe Le Étienne,29,male,,Diabetes None,128.0,85.0,92.7,2.02,0.5,Low Risk
+2026-01-02T15:03:22.867004+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,136.0,88.0,78.3,2.4,2.5,Low Risk
+2026-01-02T15:03:27.870183+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,120.0,82.0,86.9,3.24,2.0,Low Risk
+2026-01-02T15:03:32.876649+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,123.0,77.0,71.2,2.01,0.5,Low Risk
+2026-01-02T15:03:37.878659+01:00,Philippe Le Étienne,29,male,,Diabetes None,99.0,61.0,118.8,2.02,0.5,Low Risk
+2026-01-02T15:03:42.880770+01:00,Philippe Le Étienne,29,male,,Diabetes None,112.0,82.0,139.0,2.02,0.5,Low Risk
+2026-01-02T15:03:47.883616+01:00,Théodore Besson de Renard,51,male,,Diabetes None,127.0,77.0,95.0,2.72,2.0,Low Risk
+2026-01-02T15:03:52.885255+01:00,Philippe Le Étienne,29,male,,Diabetes None,137.0,92.0,100.6,2.02,1.5,Low Risk
+2026-01-02T15:03:57.896660+01:00,Philippe Le Étienne,29,male,,Diabetes None,111.0,70.0,107.8,2.02,0.5,Low Risk
+2026-01-02T15:04:02.899202+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,143.0,97.0,99.0,2.01,2.5,Low Risk
+2026-01-02T15:04:07.901291+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,149.0,100.0,74.3,2.01,2.5,Low Risk
+2026-01-02T15:04:12.903442+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,136.0,89.0,108.9,2.09,3.0,Low Risk
+2026-01-02T15:04:17.905111+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,129.0,86.0,64.0,1.7,0.0,Low Risk
+2026-01-02T15:04:22.910477+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,130.0,74.0,87.7,2.4,1.5,Low Risk
+2026-01-02T15:04:27.912429+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,146.0,92.0,69.7,2.09,4.0,Low Risk
+2026-01-02T15:04:32.914290+01:00,Maurice Royer,39,male,,Diabetes None,132.0,77.0,62.3,2.19,1.5,Low Risk
+2026-01-02T15:04:37.916579+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,121.0,78.0,63.6,3.24,2.0,Low Risk
+2026-01-02T15:04:42.917854+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,140.0,91.0,65.6,2.09,3.0,Low Risk
+2026-01-02T15:04:47.921624+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,130.0,87.0,67.7,3.24,2.0,Low Risk
+2026-01-02T15:04:52.923726+01:00,Caroline Diallo,39,female,,Diabetes None,112.0,76.0,86.2,2.07,0.5,Low Risk
+2026-01-02T15:04:57.925410+01:00,Caroline Diallo,39,female,,Diabetes None,114.0,71.0,106.9,2.07,0.5,Low Risk
+2026-01-02T15:05:02.928281+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,141.0,90.0,85.7,2.09,4.0,Low Risk
+2026-01-02T15:05:07.930028+01:00,Philippe Le Étienne,29,male,,Diabetes None,89.0,55.0,89.9,2.02,0.5,Low Risk
+2026-01-02T15:05:12.931796+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,130.0,91.0,106.8,2.01,0.5,Low Risk
+2026-01-02T15:05:17.933422+01:00,Anastasie Hernandez,81,female,,Diabetes None,144.0,97.0,88.6,2.79,4.5,Low Risk
+2026-01-02T15:05:22.935464+01:00,Anastasie Hernandez,81,female,,Diabetes None,139.0,92.0,84.7,2.79,3.5,Low Risk
+2026-01-02T15:05:27.936701+01:00,Caroline Diallo,39,female,,Diabetes None,141.0,88.0,93.9,2.07,2.5,Low Risk
+2026-01-02T15:05:32.938991+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,135.0,89.0,75.7,2.4,2.5,Low Risk
+2026-01-02T15:05:37.941635+01:00,Philippe Le Étienne,29,male,,Diabetes None,115.0,73.0,108.4,2.02,0.5,Low Risk
+2026-01-02T15:05:42.942955+01:00,Philippe Le Étienne,29,male,,Diabetes None,122.0,69.0,105.4,2.02,0.5,Low Risk
+2026-01-02T15:05:47.944651+01:00,Théodore Besson de Renard,51,male,,Diabetes None,116.0,74.0,88.1,2.72,2.0,Low Risk
+2026-01-02T15:05:52.949808+01:00,Anastasie Hernandez,81,female,,Diabetes None,113.0,75.0,89.4,2.79,2.5,Low Risk
+2026-01-02T15:05:57.951424+01:00,Philippe Le Étienne,29,male,,Diabetes None,126.0,76.0,100.1,2.02,0.5,Low Risk
+2026-01-02T15:06:02.953713+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,132.0,82.0,96.7,3.24,3.0,Low Risk
+2026-01-02T15:06:07.955203+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,145.0,101.0,94.5,2.4,3.5,Low Risk
+2026-01-02T15:06:12.957000+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,127.0,83.0,96.6,2.4,1.5,Low Risk
+2026-01-02T15:06:17.958444+01:00,Théodore Besson de Renard,51,male,,Diabetes None,134.0,87.0,93.2,2.72,3.0,Low Risk
+2026-01-02T15:06:22.960706+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,118.0,78.0,83.1,2.01,0.5,Low Risk
+2026-01-02T15:06:27.962412+01:00,Maurice Royer,39,male,,Diabetes None,125.0,83.0,58.7,2.19,0.5,Low Risk
+2026-01-02T15:06:32.964740+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,110.0,78.0,123.0,2.4,1.5,Low Risk
+2026-01-02T15:06:37.966803+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,141.0,91.0,98.3,2.09,4.0,Low Risk
+2026-01-02T15:06:42.973021+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,132.0,83.0,44.5,2.01,1.5,Low Risk
+2026-01-02T15:06:47.976206+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,136.0,86.0,96.2,2.4,2.5,Low Risk
+2026-01-02T15:06:52.978636+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,152.0,96.0,86.4,2.09,4.0,Low Risk
+2026-01-02T15:06:57.980389+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,146.0,93.0,60.0,2.09,4.0,Low Risk
+2026-01-02T15:07:02.982274+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,118.0,75.0,91.9,2.4,1.5,Low Risk
+2026-01-02T15:07:07.984253+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,107.0,67.0,113.2,1.7,0.0,Low Risk
+2026-01-02T15:07:12.986677+01:00,Maurice Royer,39,male,,Diabetes None,139.0,97.0,66.8,2.19,1.5,Low Risk
+2026-01-02T15:07:17.988184+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,131.0,86.0,109.2,3.24,3.0,Low Risk
+2026-01-02T15:07:22.989677+01:00,Caroline Diallo,39,female,,Diabetes None,137.0,86.0,102.7,2.07,1.5,Low Risk
+2026-01-02T15:07:27.991778+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,122.0,79.0,96.8,2.4,1.5,Low Risk
+2026-01-02T15:07:32.993551+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,138.0,83.0,104.9,3.24,3.0,Low Risk
+2026-01-02T15:07:37.995433+01:00,Caroline Diallo,39,female,,Diabetes None,128.0,77.0,117.5,2.07,0.5,Low Risk
+2026-01-02T15:07:42.996911+01:00,Anastasie Hernandez,81,female,,Diabetes None,141.0,97.0,113.3,2.79,4.5,Low Risk
+2026-01-02T15:07:47.998764+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,139.0,86.0,135.4,3.24,3.0,Low Risk
+2026-01-02T15:07:53.001428+01:00,Caroline Diallo,39,female,,Diabetes None,129.0,80.0,103.0,2.07,0.5,Low Risk
+2026-01-02T15:07:58.003361+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,132.0,83.0,73.2,2.01,1.5,Low Risk
+2026-01-02T15:08:03.005250+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,135.0,90.0,66.8,2.09,3.0,Low Risk
+2026-01-02T15:08:08.007716+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,155.0,105.0,73.8,2.09,4.0,Low Risk
+2026-01-02T15:08:13.009609+01:00,Maurice Royer,39,male,,Diabetes None,111.0,70.0,75.4,2.19,0.5,Low Risk
+2026-01-02T15:08:18.011247+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,131.0,84.0,94.3,2.4,2.5,Low Risk
+2026-01-02T15:08:23.012935+01:00,Anastasie Hernandez,81,female,,Diabetes None,143.0,85.0,95.9,2.79,4.5,Low Risk
+2026-01-02T15:08:28.014534+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,123.0,87.0,81.4,2.01,0.5,Low Risk
+2026-01-02T15:08:33.016046+01:00,Maurice Royer,39,male,,Diabetes None,137.0,92.0,99.8,2.19,1.5,Low Risk
+2026-01-02T15:08:38.018931+01:00,Maurice Royer,39,male,,Diabetes None,142.0,89.0,122.6,2.19,2.5,Low Risk
+2026-01-02T15:08:43.020589+01:00,Maurice Royer,39,male,,Diabetes None,141.0,101.0,114.6,2.19,2.5,Low Risk
+2026-01-02T15:08:48.024647+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,112.0,67.0,104.5,1.7,0.0,Low Risk
+2026-01-02T15:08:53.027100+01:00,Maurice Royer,39,male,,Diabetes None,116.0,75.0,123.9,2.19,0.5,Low Risk
+2026-01-02T15:08:58.030314+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,140.0,96.0,131.3,2.01,1.5,Low Risk
+2026-01-02T15:09:03.032931+01:00,Maurice Royer,39,male,,Diabetes None,129.0,82.0,103.8,2.19,0.5,Low Risk
+2026-01-02T15:09:08.035221+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,146.0,93.0,81.8,2.09,4.0,Low Risk
+2026-01-02T15:09:13.037071+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,125.0,77.0,119.2,2.4,1.5,Low Risk
+2026-01-02T15:09:18.039161+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,153.0,99.0,99.1,2.4,3.5,Low Risk
+2026-01-02T15:09:23.041440+01:00,Théodore Besson de Renard,51,male,,Diabetes None,146.0,96.0,101.8,2.72,4.0,Low Risk
+2026-01-02T15:09:28.043174+01:00,Philippe Le Étienne,29,male,,Diabetes None,124.0,80.0,107.2,2.02,0.5,Low Risk
+2026-01-02T15:09:33.044883+01:00,Philippe Le Étienne,29,male,,Diabetes None,101.0,55.0,104.2,2.02,0.5,Low Risk
+2026-01-02T15:09:38.046618+01:00,Philippe Le Étienne,29,male,,Diabetes None,104.0,67.0,70.1,2.02,0.5,Low Risk
+2026-01-02T15:09:43.048191+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,117.0,73.0,76.2,1.7,0.0,Low Risk
+2026-01-02T15:09:48.050218+01:00,Caroline Diallo,39,female,,Diabetes None,123.0,79.0,97.5,2.07,0.5,Low Risk
+2026-01-02T15:09:53.054148+01:00,Philippe Le Étienne,29,male,,Diabetes None,116.0,74.0,122.8,2.02,0.5,Low Risk
+2026-01-02T15:09:58.056133+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,139.0,92.0,88.6,2.4,2.5,Low Risk
+2026-01-02T15:10:03.058144+01:00,Anastasie Hernandez,81,female,,Diabetes None,151.0,100.0,101.6,2.79,4.5,Low Risk
+2026-01-02T15:10:08.060177+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,121.0,80.0,135.7,1.7,0.0,Low Risk
+2026-01-02T15:10:13.061799+01:00,Caroline Diallo,39,female,,Diabetes None,115.0,82.0,77.5,2.07,0.5,Low Risk
+2026-01-02T15:10:18.063258+01:00,Philippe Le Étienne,29,male,,Diabetes None,107.0,73.0,73.6,2.02,0.5,Low Risk
+2026-01-02T15:10:23.065911+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,141.0,97.0,117.8,2.09,4.0,Low Risk
+2026-01-02T15:10:28.068548+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,131.0,85.0,123.0,1.7,1.0,Low Risk
+2026-01-02T15:10:33.070842+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,122.0,76.0,76.1,1.7,0.0,Low Risk
+2026-01-02T15:10:38.073745+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,146.0,98.0,113.7,2.09,4.0,Low Risk
+2026-01-02T15:10:43.078239+01:00,Théodore Besson de Renard,51,male,,Diabetes None,120.0,76.0,97.2,2.72,2.0,Low Risk
+2026-01-02T15:10:48.080821+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,137.0,84.0,134.1,2.4,2.5,Low Risk
+2026-01-02T15:10:53.085337+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,122.0,79.0,63.7,2.01,0.5,Low Risk
+2026-01-02T15:10:58.090245+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,117.0,74.0,100.3,2.01,0.5,Low Risk
+2026-01-02T15:11:03.093339+01:00,Maurice Royer,39,male,,Diabetes None,153.0,104.0,113.4,2.19,2.5,Low Risk
+2026-01-02T15:11:08.100725+01:00,Philippe Le Étienne,29,male,,Diabetes None,110.0,68.0,111.7,2.02,0.5,Low Risk
+2026-01-02T15:11:13.102247+01:00,Anastasie Hernandez,81,female,,Diabetes None,124.0,84.0,99.7,2.79,2.5,Low Risk
+2026-01-02T15:11:18.107582+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,141.0,89.0,93.9,2.09,4.0,Low Risk
+2026-01-02T15:11:23.109819+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,121.0,72.0,93.1,1.7,0.0,Low Risk
+2026-01-02T15:11:28.118025+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,135.0,94.0,82.2,2.4,2.5,Low Risk
+2026-01-02T15:11:33.119565+01:00,Théodore Besson de Renard,51,male,,Diabetes None,102.0,60.0,109.4,2.72,2.0,Low Risk
+2026-01-02T15:11:38.121597+01:00,Caroline Diallo,39,female,,Diabetes None,118.0,80.0,87.5,2.07,0.5,Low Risk
+2026-01-02T15:11:43.123388+01:00,Maurice Royer,39,male,,Diabetes None,127.0,79.0,52.9,2.19,0.5,Low Risk
+2026-01-02T15:11:48.124923+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,131.0,84.0,75.3,3.24,3.0,Low Risk
+2026-01-02T15:11:53.127807+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,153.0,101.0,104.8,2.09,4.0,Low Risk
+2026-01-02T15:11:58.129555+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,123.0,77.0,102.4,2.4,1.5,Low Risk
+2026-01-02T15:12:03.131190+01:00,Anastasie Hernandez,81,female,,Diabetes None,169.0,108.0,95.8,2.79,5.5,Low Risk
+2026-01-02T15:12:08.133122+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,130.0,74.0,78.2,2.01,0.5,Low Risk
+2026-01-02T15:12:13.134594+01:00,Théodore Besson de Renard,51,male,,Diabetes None,118.0,72.0,99.6,2.72,2.0,Low Risk
+2026-01-02T15:12:18.136562+01:00,Maurice Royer,39,male,,Diabetes None,112.0,75.0,101.7,2.19,0.5,Low Risk
+2026-01-02T15:12:23.138163+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,152.0,102.0,85.5,2.09,4.0,Low Risk
+2026-01-02T15:12:28.146903+01:00,Caroline Diallo,39,female,,Diabetes None,131.0,91.0,91.7,2.07,1.5,Low Risk
+2026-01-02T15:12:33.148874+01:00,Maurice Royer,39,male,,Diabetes None,139.0,91.0,91.6,2.19,1.5,Low Risk
+2026-01-02T15:12:38.150910+01:00,Théodore Besson de Renard,51,male,,Diabetes None,143.0,93.0,70.2,2.72,4.0,Low Risk
+2026-01-02T15:12:43.152773+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,126.0,80.0,115.7,2.01,0.5,Low Risk
+2026-01-02T15:12:48.154521+01:00,Anastasie Hernandez,81,female,,Diabetes None,163.0,107.0,119.4,2.79,5.5,Low Risk
+2026-01-02T15:12:53.156351+01:00,Théodore Besson de Renard,51,male,,Diabetes None,140.0,90.0,79.9,2.72,3.0,Low Risk
+2026-01-02T15:12:58.158456+01:00,Maurice Royer,39,male,,Diabetes None,136.0,87.0,134.7,2.19,1.5,Low Risk
+2026-01-02T15:13:03.161363+01:00,Anastasie Hernandez,81,female,,Diabetes None,136.0,86.0,115.4,2.79,3.5,Low Risk
+2026-01-02T15:13:08.167654+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,126.0,84.0,81.6,3.24,2.0,Low Risk
+2026-01-02T15:13:13.183026+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,99.0,64.0,86.1,1.7,0.0,Low Risk
+2026-01-02T15:13:18.200129+01:00,Maurice Royer,39,male,,Diabetes None,123.0,77.0,97.3,2.19,0.5,Low Risk
+2026-01-02T15:13:23.205159+01:00,Philippe Le Étienne,29,male,,Diabetes None,120.0,79.0,63.9,2.02,0.5,Low Risk
+2026-01-02T15:13:28.235958+01:00,Philippe Le Étienne,29,male,,Diabetes None,108.0,61.0,101.7,2.02,0.5,Low Risk
+2026-01-02T15:13:33.254472+01:00,Philippe Le Étienne,29,male,,Diabetes None,113.0,79.0,112.1,2.02,0.5,Low Risk
+2026-01-02T15:13:38.262177+01:00,Caroline Diallo,39,female,,Diabetes None,120.0,78.0,119.3,2.07,0.5,Low Risk
+2026-01-02T15:13:43.281741+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,143.0,89.0,78.9,2.09,4.0,Low Risk
+2026-01-02T15:13:48.284011+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,155.0,112.0,107.0,2.09,4.0,Low Risk
+2026-01-02T15:13:53.308488+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,141.0,87.0,86.6,3.24,4.0,Low Risk
+2026-01-02T15:13:58.339261+01:00,Anastasie Hernandez,81,female,,Diabetes None,141.0,96.0,95.7,2.79,4.5,Low Risk
+2026-01-02T15:14:03.370047+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,165.0,105.0,102.3,2.09,5.0,Low Risk
+2026-01-02T15:14:08.375242+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,126.0,81.0,106.3,2.4,1.5,Low Risk
+2026-01-02T15:14:13.377135+01:00,Caroline Diallo,39,female,,Diabetes None,137.0,90.0,91.8,2.07,1.5,Low Risk
+2026-01-02T15:14:18.378716+01:00,Maurice Royer,39,male,,Diabetes None,128.0,84.0,114.8,2.19,0.5,Low Risk
+2026-01-02T15:14:23.391667+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,140.0,80.0,83.1,2.09,3.0,Low Risk
+2026-01-02T15:14:28.397579+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,147.0,99.0,102.9,2.4,3.5,Low Risk
+2026-01-02T15:14:33.414739+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,128.0,80.0,67.3,2.01,0.5,Low Risk
+2026-01-02T15:14:38.431740+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,128.0,87.0,71.2,2.09,2.0,Low Risk
+2026-01-02T15:14:43.462609+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,140.0,96.0,116.1,2.4,2.5,Low Risk
+2026-01-02T15:14:48.464321+01:00,Anastasie Hernandez,81,female,,Diabetes None,120.0,73.0,98.1,2.79,2.5,Low Risk
+2026-01-02T15:14:53.473214+01:00,Philippe Le Étienne,29,male,,Diabetes None,112.0,75.0,61.5,2.02,0.5,Low Risk
+2026-01-02T15:14:58.490546+01:00,Philippe Le Étienne,29,male,,Diabetes None,123.0,85.0,94.3,2.02,0.5,Low Risk
+2026-01-02T15:15:03.497502+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,125.0,82.0,76.3,3.24,2.0,Low Risk
+2026-01-02T15:15:08.524312+01:00,Théodore Besson de Renard,51,male,,Diabetes None,137.0,88.0,87.7,2.72,3.0,Low Risk
+2026-01-02T15:15:13.533849+01:00,Philippe Le Étienne,29,male,,Diabetes None,114.0,77.0,102.7,2.02,0.5,Low Risk
+2026-01-02T15:15:18.558983+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,130.0,85.0,126.0,3.24,2.0,Low Risk
+2026-01-02T15:15:23.569958+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,123.0,82.0,97.9,2.01,0.5,Low Risk
+2026-01-02T15:15:28.587974+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,118.0,81.0,89.8,2.4,1.5,Low Risk
+2026-01-02T15:15:33.599709+01:00,Anastasie Hernandez,81,female,,Diabetes None,160.0,110.0,77.5,2.79,4.5,Low Risk
+2026-01-02T15:15:38.603669+01:00,Caroline Diallo,39,female,,Diabetes None,125.0,76.0,51.2,2.07,0.5,Low Risk
+2026-01-02T15:15:43.633657+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,122.0,85.0,123.7,3.24,2.0,Low Risk
+2026-01-02T15:15:48.636464+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,127.0,88.0,85.6,2.09,2.0,Low Risk
+2026-01-02T15:15:53.638175+01:00,Philippe Le Étienne,29,male,,Diabetes None,100.0,72.0,99.7,2.02,0.5,Low Risk
+2026-01-02T15:15:58.654410+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,142.0,91.0,115.3,2.09,4.0,Low Risk
+2026-01-02T15:16:03.663190+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,127.0,83.0,62.2,2.4,1.5,Low Risk
+2026-01-02T15:16:08.668182+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,130.0,76.0,88.1,2.01,0.5,Low Risk
+2026-01-02T15:16:13.669949+01:00,Anastasie Hernandez,81,female,,Diabetes None,123.0,77.0,88.9,2.79,2.5,Low Risk
+2026-01-02T15:16:18.673487+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,124.0,84.0,109.3,1.7,0.0,Low Risk
+2026-01-02T15:16:23.675181+01:00,Maurice Royer,39,male,,Diabetes None,123.0,76.0,66.4,2.19,0.5,Low Risk
+2026-01-02T15:16:28.678535+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,149.0,91.0,105.6,2.09,4.0,Low Risk
+2026-01-02T15:16:33.682288+01:00,Alexandria Leroux de la Grenier,62,female,,Diabetes None,153.0,98.0,133.7,3.24,4.0,Low Risk
+2026-01-02T15:16:38.685603+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,102.0,66.0,106.9,2.4,1.5,Low Risk
+2026-01-02T15:16:43.688697+01:00,Maurice Royer,39,male,,Diabetes None,137.0,94.0,58.1,2.19,1.5,Low Risk
+2026-01-02T15:16:48.690534+01:00,Théodore Besson de Renard,51,male,,Diabetes None,126.0,83.0,79.8,2.72,2.0,Low Risk
+2026-01-02T15:16:53.695742+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,114.0,78.0,89.7,2.01,0.5,Low Risk
+2026-01-02T15:16:58.698940+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,135.0,97.0,98.5,2.01,1.5,Low Risk
+2026-01-02T15:17:03.700880+01:00,Caroline Diallo,39,female,,Diabetes None,137.0,89.0,64.8,2.07,1.5,Low Risk
+2026-01-02T15:17:08.705108+01:00,Anastasie Hernandez,81,female,,Diabetes None,140.0,101.0,108.6,2.79,3.5,Low Risk
+2026-01-02T15:17:13.707564+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,156.0,98.0,94.3,2.09,4.0,Low Risk
+2026-01-02T15:17:18.710370+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,133.0,73.0,93.7,1.7,1.0,Low Risk
+2026-01-02T15:17:23.712819+01:00,Alix-Christelle Leleu,64,female,,Diabetes None,133.0,89.0,71.9,2.4,2.5,Low Risk
+2026-01-02T15:17:28.714588+01:00,Adélaïde-Anouk Bourdon,83,female,,Diabetes None,141.0,96.0,62.2,2.09,4.0,Low Risk
+2026-01-02T15:17:33.716332+01:00,Caroline Diallo,39,female,,Diabetes None,118.0,75.0,91.4,2.07,0.5,Low Risk
+2026-01-02T15:17:38.718343+01:00,Maurice Royer,39,male,,Diabetes None,116.0,79.0,60.5,2.19,0.5,Low Risk
+2026-01-02T15:17:43.719938+01:00,Alexandria Laporte Le Legrand,42,female,,Diabetes None,131.0,80.0,101.9,2.01,1.5,Low Risk
+2026-01-02T15:17:48.728468+01:00,Théodore Besson de Renard,51,male,,Diabetes None,127.0,80.0,128.8,2.72,2.0,Low Risk
+2026-01-02T15:17:53.744038+01:00,Théodore Besson de Renard,51,male,,Diabetes None,135.0,94.0,72.9,2.72,3.0,Low Risk
+2026-01-02T15:17:58.757070+01:00,Anastasie Hernandez,81,female,,Diabetes None,149.0,92.0,101.7,2.79,4.5,Low Risk
+2026-01-02T15:18:03.761651+01:00,Julien Joly du Bourdon,34,male,,Diabetes None,102.0,60.0,76.7,1.7,0.0,Low Risk
+2026-01-02T22:38:05.011634+01:00,Anne Charpentier,74,female,,Diabetes None,144.0,91.0,135.9,2.29,3.5,Low Risk
+2026-01-02T22:38:10.213281+01:00,Alexandria Royer,53,female,,Diabetes None,126.0,88.0,101.7,2.53,2.0,Low Risk
+2026-01-02T22:38:15.216125+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,152.0,102.0,176.1,2.21,5.0,Low Risk
+2026-01-02T22:38:20.222160+01:00,Anouk Langlois,33,female,,Diabetes None,111.0,85.0,103.6,2.17,0.5,Low Risk
+2026-01-02T22:38:25.226134+01:00,Anouk Langlois,33,female,,Diabetes None,112.0,70.0,91.3,2.17,0.5,Low Risk
+2026-01-02T22:38:30.231497+01:00,Alexandria Royer,53,female,,Diabetes None,133.0,86.0,92.2,2.53,3.0,Low Risk
+2026-01-02T22:38:35.248513+01:00,Olivier Rousset,46,male,,Diabetes Type 1,157.0,110.0,197.1,2.29,4.5,Low Risk
+2026-01-02T22:38:40.259901+01:00,Sabine Simon,84,female,,Diabetes None,150.0,97.0,92.6,1.97,3.5,Low Risk
+2026-01-02T22:38:45.268177+01:00,Rémy Lemoine,66,male,,Diabetes None,149.0,104.0,96.9,2.37,3.5,Low Risk
+2026-01-02T22:38:50.271880+01:00,Rémy Lemoine,66,male,,Diabetes None,136.0,88.0,100.3,2.37,2.5,Low Risk
+2026-01-02T22:38:55.279829+01:00,Anouk Langlois,33,female,,Diabetes None,127.0,87.0,40.0,2.17,0.5,Low Risk
+2026-01-02T22:39:00.284587+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,156.0,104.0,188.6,2.21,5.0,Low Risk
+2026-01-02T22:39:05.289096+01:00,Anouk Langlois,33,female,,Diabetes None,106.0,67.0,58.9,2.17,0.5,Low Risk
+2026-01-02T22:39:10.296089+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,169.0,113.0,206.5,2.21,6.0,High Risk
+2026-01-02T22:39:15.302545+01:00,Luc Roche,31,male,,Diabetes None,109.0,74.0,104.0,1.8,0.0,Low Risk
+2026-01-02T22:39:20.310369+01:00,Alexandria Royer,53,female,,Diabetes None,145.0,97.0,88.1,2.53,4.0,Low Risk
+2026-01-02T22:39:25.314998+01:00,Sabine Simon,84,female,,Diabetes None,146.0,99.0,117.8,1.97,3.5,Low Risk
+2026-01-02T22:39:30.318758+01:00,Olivier Rousset,46,male,,Diabetes Type 1,158.0,101.0,195.0,2.29,4.5,Low Risk
+2026-01-02T22:39:35.324124+01:00,Sabine Simon,84,female,,Diabetes None,145.0,85.0,72.8,1.97,3.5,Low Risk
+2026-01-02T22:39:40.327579+01:00,Rémy Lemoine,66,male,,Diabetes None,138.0,93.0,82.8,2.37,2.5,Low Risk
+2026-01-02T22:39:45.336596+01:00,Alexandria Royer,53,female,,Diabetes None,125.0,76.0,90.2,2.53,2.0,Low Risk
+2026-01-02T22:39:50.341361+01:00,Anouk Langlois,33,female,,Diabetes None,99.0,60.0,99.7,2.17,0.5,Low Risk
+2026-01-02T22:39:55.346617+01:00,Olivier Rousset,46,male,,Diabetes Type 1,152.0,104.0,163.2,2.29,4.5,Low Risk
+2026-01-02T22:40:00.351707+01:00,Nathalie Paris,67,female,,Diabetes None,155.0,111.0,107.7,2.75,4.0,Low Risk
+2026-01-02T22:40:05.356293+01:00,Anne Charpentier,74,female,,Diabetes None,136.0,92.0,117.2,2.29,2.5,Low Risk
+2026-01-02T22:40:10.360885+01:00,Olivier Rousset,46,male,,Diabetes Type 1,145.0,93.0,175.7,2.29,4.5,Low Risk
+2026-01-02T22:40:15.365549+01:00,Stéphane Renaud,67,male,,Diabetes Type 2,140.0,87.0,156.6,2.22,4.0,Low Risk
+2026-01-02T22:40:20.371092+01:00,Rémy Lemoine,66,male,,Diabetes None,136.0,89.0,69.5,2.37,2.5,Low Risk
+2026-01-02T22:40:25.375852+01:00,Nathalie Paris,67,female,,Diabetes None,146.0,100.0,96.3,2.75,4.0,Low Risk
+2026-01-02T22:40:30.381357+01:00,Rémy Lemoine,66,male,,Diabetes None,159.0,108.0,93.8,2.37,3.5,Low Risk
+2026-01-02T22:40:35.383841+01:00,Anne Charpentier,74,female,,Diabetes None,140.0,87.0,78.9,2.29,2.5,Low Risk
+2026-01-02T22:40:40.388610+01:00,Anouk Langlois,33,female,,Diabetes None,123.0,81.0,102.7,2.17,0.5,Low Risk
+2026-01-02T22:40:45.393442+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,163.0,110.0,178.8,2.21,6.0,High Risk
+2026-01-02T22:40:50.396512+01:00,Nathalie Paris,67,female,,Diabetes None,135.0,80.0,83.8,2.75,3.0,Low Risk
+2026-01-02T22:40:55.403204+01:00,Nathalie Paris,67,female,,Diabetes None,152.0,95.0,65.3,2.75,4.0,Low Risk
+2026-01-02T22:41:00.409306+01:00,Alexandria Royer,53,female,,Diabetes None,139.0,89.0,60.7,2.53,3.0,Low Risk
+2026-01-02T22:41:05.415255+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,157.0,115.0,201.1,2.21,5.0,Low Risk
+2026-01-02T22:41:10.419016+01:00,Luc Roche,31,male,,Diabetes None,116.0,81.0,93.7,1.8,0.0,Low Risk
+2026-01-02T22:41:15.424540+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,141.0,89.0,217.7,2.21,5.0,Low Risk
+2026-01-02T22:41:20.430975+01:00,Sabine Simon,84,female,,Diabetes None,141.0,88.0,110.1,1.97,3.5,Low Risk
+2026-01-02T22:41:25.436407+01:00,Sabine Simon,84,female,,Diabetes None,160.0,101.0,136.4,1.97,3.5,Low Risk
+2026-01-02T22:41:30.440211+01:00,Alexandria Royer,53,female,,Diabetes None,141.0,92.0,61.5,2.53,4.0,Low Risk
+2026-01-02T22:41:35.444383+01:00,Anne Charpentier,74,female,,Diabetes None,142.0,97.0,84.0,2.29,3.5,Low Risk
+2026-01-02T22:41:40.450356+01:00,Stéphane Renaud,67,male,,Diabetes Type 2,144.0,89.0,174.1,2.22,5.0,Low Risk
+2026-01-02T22:41:45.456103+01:00,Nathalie Paris,67,female,,Diabetes None,134.0,91.0,118.8,2.75,3.0,Low Risk
+2026-01-02T22:41:50.461241+01:00,Sabine Simon,84,female,,Diabetes None,150.0,85.0,79.7,1.97,3.5,Low Risk
+2026-01-02T22:41:55.468963+01:00,Olivier Rousset,46,male,,Diabetes Type 1,123.0,80.0,145.9,2.29,2.5,Low Risk
+2026-01-02T22:42:00.472103+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,171.0,109.0,149.4,2.21,6.0,High Risk
+2026-01-02T22:42:05.475281+01:00,Anne Charpentier,74,female,,Diabetes None,169.0,108.0,109.3,2.29,4.5,Low Risk
+2026-01-02T22:42:10.478285+01:00,Anne Charpentier,74,female,,Diabetes None,147.0,94.0,115.2,2.29,3.5,Low Risk
+2026-01-02T22:42:15.480339+01:00,Olivier Rousset,46,male,,Diabetes Type 1,121.0,77.0,160.6,2.29,2.5,Low Risk
+2026-01-02T22:42:20.486908+01:00,Olivier Rousset,46,male,,Diabetes Type 1,134.0,91.0,192.0,2.29,3.5,Low Risk
+2026-01-02T22:42:25.494568+01:00,Alexandria Royer,53,female,,Diabetes None,135.0,88.0,113.5,2.53,3.0,Low Risk
+2026-01-02T22:42:30.501644+01:00,Stéphane Renaud,67,male,,Diabetes Type 2,167.0,111.0,164.3,2.22,6.0,High Risk
+2026-01-02T22:42:35.507613+01:00,Luc Roche,31,male,,Diabetes None,131.0,87.0,81.1,1.8,1.0,Low Risk
+2026-01-02T22:42:40.514306+01:00,Anouk Langlois,33,female,,Diabetes None,111.0,66.0,104.8,2.17,0.5,Low Risk
+2026-01-02T22:42:45.517796+01:00,Rémy Lemoine,66,male,,Diabetes None,166.0,103.0,68.6,2.37,4.5,Low Risk
+2026-01-02T22:42:50.524744+01:00,Sabine Simon,84,female,,Diabetes None,140.0,94.0,71.8,1.97,2.5,Low Risk
+2026-01-02T22:42:55.531207+01:00,Olivier Rousset,46,male,,Diabetes Type 1,163.0,103.0,144.8,2.29,5.5,Low Risk
+2026-01-02T22:43:00.537646+01:00,Alexandria Royer,53,female,,Diabetes None,150.0,100.0,76.4,2.53,4.0,Low Risk
+2026-01-02T22:43:05.545683+01:00,Luc Roche,31,male,,Diabetes None,115.0,74.0,120.9,1.8,0.0,Low Risk
+2026-01-02T22:43:10.553514+01:00,Anouk Langlois,33,female,,Diabetes None,109.0,65.0,77.7,2.17,0.5,Low Risk
+2026-01-02T22:43:15.560005+01:00,Alexandria Royer,53,female,,Diabetes None,133.0,81.0,118.2,2.53,3.0,Low Risk
+2026-01-02T22:43:20.567364+01:00,Nathalie Paris,67,female,,Diabetes None,146.0,98.0,100.9,2.75,4.0,Low Risk
+2026-01-02T22:43:25.573681+01:00,Sabine Simon,84,female,,Diabetes None,153.0,96.0,121.5,1.97,3.5,Low Risk
+2026-01-02T22:43:30.576742+01:00,Olivier Rousset,46,male,,Diabetes Type 1,135.0,82.0,162.9,2.29,3.5,Low Risk
+2026-01-02T22:43:35.588205+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,157.0,96.0,188.6,2.21,5.0,Low Risk
+2026-01-02T22:43:40.595160+01:00,Alexandria Royer,53,female,,Diabetes None,144.0,94.0,91.3,2.53,4.0,Low Risk
+2026-01-02T22:43:45.601488+01:00,Anne Charpentier,74,female,,Diabetes None,144.0,89.0,77.8,2.29,3.5,Low Risk
+2026-01-02T22:43:50.605034+01:00,Anouk Langlois,33,female,,Diabetes None,137.0,92.0,103.6,2.17,1.5,Low Risk
+2026-01-02T22:43:55.613326+01:00,Stéphane Renaud,67,male,,Diabetes Type 2,153.0,106.0,167.8,2.22,5.0,Low Risk
+2026-01-02T22:44:00.619408+01:00,Nathalie Paris,67,female,,Diabetes None,160.0,112.0,61.8,2.75,4.0,Low Risk
+2026-01-02T22:44:05.626122+01:00,Anne Charpentier,74,female,,Diabetes None,142.0,96.0,79.6,2.29,3.5,Low Risk
+2026-01-02T22:44:10.632530+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,143.0,94.0,204.8,2.21,5.0,Low Risk
+2026-01-02T22:44:15.638763+01:00,Sabine Simon,84,female,,Diabetes None,133.0,87.0,89.2,1.97,2.5,Low Risk
+2026-01-02T22:44:20.644932+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,132.0,94.0,172.4,2.21,4.0,Low Risk
+2026-01-02T22:44:25.650204+01:00,Nathalie Paris,67,female,,Diabetes None,131.0,97.0,80.6,2.75,3.0,Low Risk
+2026-01-02T22:44:30.677731+01:00,Alexandria Royer,53,female,,Diabetes None,132.0,80.0,72.0,2.53,3.0,Low Risk
+2026-01-02T22:44:35.684935+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,167.0,102.0,154.4,2.21,6.0,High Risk
+2026-01-02T22:44:40.690704+01:00,Nathalie Paris,67,female,,Diabetes None,139.0,96.0,118.5,2.75,3.0,Low Risk
+2026-01-02T22:44:45.697383+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,148.0,90.0,157.2,2.21,5.0,Low Risk
+2026-01-02T22:44:50.706360+01:00,Alexandria Royer,53,female,,Diabetes None,119.0,68.0,97.4,2.53,2.0,Low Risk
+2026-01-02T22:44:55.713348+01:00,Anouk Langlois,33,female,,Diabetes None,127.0,81.0,122.0,2.17,0.5,Low Risk
+2026-01-02T22:45:00.717935+01:00,Nathalie Paris,67,female,,Diabetes None,144.0,96.0,119.7,2.75,4.0,Low Risk
+2026-01-02T22:45:05.724471+01:00,Rémy Lemoine,66,male,,Diabetes None,138.0,76.0,64.5,2.37,2.5,Low Risk
+2026-01-02T22:45:10.731513+01:00,Stéphane Renaud,67,male,,Diabetes Type 2,143.0,94.0,198.1,2.22,5.0,Low Risk
+2026-01-02T22:45:15.737361+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,152.0,97.0,180.7,2.21,5.0,Low Risk
+2026-01-02T22:45:20.745704+01:00,Anne Charpentier,74,female,,Diabetes None,154.0,95.0,93.9,2.29,3.5,Low Risk
+2026-01-02T22:45:25.752810+01:00,Olivier Rousset,46,male,,Diabetes Type 1,140.0,86.0,167.7,2.29,3.5,Low Risk
+2026-01-02T22:45:30.758898+01:00,Luc Roche,31,male,,Diabetes None,125.0,84.0,76.1,1.8,0.0,Low Risk
+2026-01-02T22:45:35.764088+01:00,Olivier Rousset,46,male,,Diabetes Type 1,136.0,86.0,171.4,2.29,3.5,Low Risk
+2026-01-02T22:45:40.770050+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,152.0,97.0,120.3,2.21,5.0,Low Risk
+2026-01-02T22:45:45.773138+01:00,Anne Charpentier,74,female,,Diabetes None,156.0,108.0,60.2,2.29,3.5,Low Risk
+2026-01-02T22:45:50.775575+01:00,Luc Roche,31,male,,Diabetes None,128.0,77.0,100.6,1.8,0.0,Low Risk
+2026-01-02T22:45:55.793930+01:00,Sabine Simon,84,female,,Diabetes None,149.0,101.0,102.3,1.97,3.5,Low Risk
+2026-01-02T22:46:00.800096+01:00,Stéphane Renaud,67,male,,Diabetes Type 2,164.0,101.0,144.4,2.22,6.0,High Risk
+2026-01-02T22:46:05.804121+01:00,Alexandria Royer,53,female,,Diabetes None,141.0,101.0,99.0,2.53,4.0,Low Risk
+2026-01-02T22:46:10.809871+01:00,Sabine Simon,84,female,,Diabetes None,121.0,79.0,107.1,1.97,1.5,Low Risk
+2026-01-02T22:46:15.814188+01:00,Cécile Rousseau-Lévy,70,female,,Diabetes Type 2,169.0,105.0,168.0,2.21,6.0,High Risk
+2026-01-02T22:46:20.823449+01:00,Luc Roche,31,male,,Diabetes None,113.0,70.0,98.0,1.8,0.0,Low Risk
+2026-01-02T22:46:25.829416+01:00,Olivier Rousset,46,male,,Diabetes Type 1,121.0,78.0,155.8,2.29,2.5,Low Risk
+2026-01-02T22:46:30.833789+01:00,Nathalie Paris,67,female,,Diabetes None,143.0,95.0,107.9,2.75,4.0,Low Risk
+2026-01-02T22:46:35.838851+01:00,Sabine Simon,84,female,,Diabetes None,157.0,96.0,111.2,1.97,3.5,Low Risk
+2026-01-02T22:46:40.844376+01:00,Olivier Rousset,46,male,,Diabetes Type 1,134.0,91.0,153.1,2.29,3.5,Low Risk
+2026-01-02T22:46:45.849406+01:00,Anouk Langlois,33,female,,Diabetes None,108.0,66.0,80.2,2.17,0.5,Low Risk
+2026-01-02T22:46:50.854314+01:00,Luc Roche,31,male,,Diabetes None,106.0,59.0,111.4,1.8,0.0,Low Risk
+2026-01-02T22:46:55.859582+01:00,Luc Roche,31,male,,Diabetes None,116.0,78.0,80.7,1.8,0.0,Low Risk
