@@ -19,7 +19,7 @@ from fhir.resources.observation import ObservationComponent
 ############################################
 
 """
-Notre générateur génère une ressource FHIR Observation simulant un bilan de santé pour le risque d'AVC.
+Notre générateur génère une ressource FHIR LOINC des Observation simulant un bilan de santé pour le risque d'AVC.
         
 Cette méthode calcule des constantes physiologiques (tension, glycémie, cholestérol) 
 en appliquant des lois normales (Gauss) corrélées à l'âge et au statut diabétique 
@@ -45,7 +45,7 @@ fake = Faker(["fr_FR"])
 class PatientSimulator:
     def __init__(self):
 
-        # --- DONNÉES STABLES (Fixées à la création du patient) ---
+        # On initie un patient en lui donnant un genre, nom, age et nous lui affectons un id
         self.gender = random.choice(["male", "female"])
         if self.gender == "male":
             self.p_name = fake.name_male()
@@ -53,11 +53,13 @@ class PatientSimulator:
             self.p_name = fake.name_female()
             
         self.p_id = fake.bothify(text="??_######", letters="ABCDEFGHIKLMNOPQRSTVXYZ")
-        self.age = int(random.triangular(18, 95, 65))
+        
+        # On choisir la distribution triangulaire avec un mode de 65 ans pour modeliser l'age
+        self.age = int(random.triangular(18, 95, 65)) 
         self.is_smoker = 1 if random.random() < 0.35 else 0
         
         # Probabilité de diabète
-        prob_t2 = 0.20 if self.age > 45 else 0.03
+        prob_t2 = 0.30 if self.age > 45 else 0.1
         rand_diab = random.random()
         if rand_diab < 0.05:
             self.diabetes_type = "Type 1"
@@ -73,13 +75,15 @@ class PatientSimulator:
 
     def generate_fhir_observation(self):
         
-        now_iso = datetime.now().astimezone().isoformat()
+        # Pour avoir des dates adaptee à tout systeme informatique
+        now_iso = datetime.now().astimezone().isoformat() 
 
         # DONNÉES VARIABLES (Temps réel)
-        mu_sys = 115 if self.age < 35 else (130 if self.age < 65 else 145)
+        mu_sys = 100 if self.age < 35 else (110 if self.age < 65 else 130)
         if self.diabetes_type != "None": 
             mu_sys += 10 
         
+        # On modelise le blood pressure avec un loi normal(Gaussienne)
         systolic = int(random.gauss(mu_sys, 12))
         diastolic = int(systolic * 0.65 + random.gauss(0, 5))
         
@@ -142,3 +146,29 @@ class PatientSimulator:
 sim = PatientSimulator()
 fhir_dict = sim.generate_fhir_observation()
 print(json.dumps(fhir_dict, indent=2))
+
+"""
+ Nous avons mis en palce un SCORING MANUEL afin de labeliser les donnees :
+ Logique metier : 
+        risk_score = 0
+        if systolic > 180: risk_score += 4
+        elif systolic > 160: risk_score += 3
+        elif systolic > 140: risk_score += 2
+        elif systolic > 130: risk_score += 1
+        
+        if "Type 1" in diabete: risk_score += 2
+        elif "Type 2" in diabete: risk_score += 1.5
+
+        if fumeur: risk_score += 1.5
+
+        if age > 75: risk_score += 1.5
+        elif age > 50: risk_score += 1
+
+        if cholesterol > 2.4: risk_score += 1
+        elif cholesterol > 2.0: risk_score += 0.5
+
+        risk_score = min(10, risk_score)
+        'AVC_Risk_Score'= round(risk_score, 2),
+        
+        'Target_Risk' = "High Risk" if AVC_Risk_Score > 0.5 else "Low Risk"
+"""

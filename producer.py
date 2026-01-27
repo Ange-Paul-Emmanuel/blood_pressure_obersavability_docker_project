@@ -8,6 +8,7 @@ from generator import PatientSimulator
 
 ############################################
 
+# On serialise les donnes en chaine de characteres, compris les donnes de type date
 def json_serializer(obj):
     if isinstance(obj, (datetime, date)):
         return obj.astimezone().isoformat()
@@ -17,9 +18,11 @@ def json_serializer(obj):
 
 producer  = KafkaProducer(
     bootstrap_servers = ['localhost:9092'],
-    value_serializer = lambda v : json.dumps(v, default=json_serializer).encode('utf-8')
-)
+    value_serializer = lambda v : json.dumps(v, default=json_serializer).encode('utf-8')) # Codage binaire avant envoi
 
+############################################
+# Data streaming                           #
+# Publication de données vers Kafka        #
 ############################################
 
 def data_streaming():
@@ -33,7 +36,6 @@ def data_streaming():
         while True:
             
             patient_choisi = random.choice(liste_patients)
-
             data = patient_choisi.generate_fhir_observation()
             
             # Envoi vers Kafka
@@ -41,7 +43,8 @@ def data_streaming():
 
             # Affichage console pour vérification
             print(f"Envoyé : {data['subject']['display']} | ID: {data['id']}")
-            
+
+            # Interval de publication des message : Nous avons choisi 5 secondes
             time.sleep(5)
 
     except KeyboardInterrupt:
