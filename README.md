@@ -72,18 +72,17 @@ Kibana : http://localhost:5601 (pour visualiser les dashboards et les alertes).
 ```text
 PROJET BLOOD PRESSURE/
 ├── outputs_bp/                 # Artefacts et modèles exportés
-│   ├── dataset_enrichi.csv     # Dataset après feature engineering
+│   ├── dataset_enrichi.csv        # Dataset après feature engineering
 │   └── my_random_forest_avc.joblib # Modèle Random Forest entraîné
 ├── venv/                       # Environnement virtuel Python
-├── .env                        # Configuration des accès (Kafka/ES)
+├── .env                        # Configuration des accès (Clef API)
 ├── .gitignore                  # Fichiers à exclure du versioning
-├── docker-compose.yml          # Orchestration (Kafka, Zookeeper, ES, Kibana)
+├── docker-compose.yml          # Orchestration des conteneurs Docker(Kafka, Zookeeper, ES, Kibana)
 ├── producer.py                 # Ingestion des données patients (Source)
-├── detector.py                 # Analyse de flux et détection d'anomalies
 ├── medical_agent.py            # Agent IA (Prédiction AVC en temps réel)
 ├── consumer.py                 # Indexation finale dans Elasticsearch
 ├── generator.py                # Simulateur de données médicales
 ├── reset_topic.py              # Script utilitaire de purge Kafka
 ├── requirements.txt            # Dépendances du projet
-├── ML_Model.ipynb              # Notebook d'expérimentation et d'entraînement
-└── patients_sains.json         # Base de référence des patients
+├── ML_Model.ipynb              # Notebook d'entraînement et modèle de prédiction
+└── patients_sains.json         # Stock localement les données des patients sains
