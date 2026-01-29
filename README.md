@@ -11,6 +11,7 @@ Suivez ces étapes pour installer l'environnement et lancer le pipeline de préd
 * **Docker Desktop** : Assurez-vous qu'il est installé et que le moteur WSL2 est activé (pour Windows).
 * **Python 3.10+** : Vérifiez votre version avec `python --version`.
 * **Git** : Pour cloner le répertoire.
+* **Clé API**
 
 ## 2. Récupération du Projet
 Ouvrez un terminal (PowerShell ou Bash) et exécutez :
@@ -60,8 +61,25 @@ python -m venv venv
 # Installation des bibliothèques nécessaires
 pip install -r requirements.txt
 ```
+## 5. 🔑 Configuration et accès au LLM
 
-## 5. Exécution du Pipeline (Ordre de lancement)
+Le projet utilise l'agent ```MedicalAgent``` de ```medical_agent.py``` qui s'appuie sur le LLM OpenSource ```llama-3.1-8b-instant``` ultra-rapides de Groq pour analyser les risques médicaux. 
+Pour que l'analyse fonctionne, tu dois posséder une clé API valide.
+
+Obtenir une clé API gratuite :
+- Rendez-vous sur le Groq Cloud Console : https://console.groq.com/.
+- Connectez-vous avec votre compte Google ou GitHub.
+- Dans le menu latéral gauche, cliquez sur "API Keys".
+- Cliquez sur le bouton "Create API Key".
+- Donnez-lui un nom (ex: Blood_pressure_Project_IA) et copiez la clé générée.
+
+Configurer la variable d'environnement :
+Pour que le script ```medical_agent.py``` puisse lire la clé via ```os.getenv('GROQ_API_KEY')```, tu dois l'ajouter à ton fichier .env.
+
+- À la racine du projet crée le fichier nommé .env.
+- Ajoute la ligne suivante à l'intérieur : ```GROQ_API_KEY=gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx```
+
+## 7. Exécution du Pipeline (Ordre de lancement)
 
 Pour que le flux de données soit correctement traité, ouvrez quatre terminaux différents et lancez les scripts dans l'ordre suivant :
 ```bash
@@ -77,7 +95,7 @@ python medical_agent.py
 # Prépare la réception et l'indexation dans Elasticsearch.
 python consummer.py
 ```
-## 6. Accès aux Interfaces Graphiques : 
+## 7. Accès aux Interfaces Graphiques : 
 
   ### Kafka UI
 Une fois le pipeline en marche, vous pouvez surveiller le système via :
