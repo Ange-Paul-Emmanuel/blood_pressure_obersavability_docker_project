@@ -79,7 +79,7 @@ Pour que le script ```medical_agent.py``` puisse lire la clé via ```os.getenv('
 - À la racine du projet crée le fichier nommé .env.
 - Ajoute la ligne suivante à l'intérieur : ```GROQ_API_KEY=gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx```
 
-## 7. Exécution du Pipeline (Ordre de lancement)
+## 6. Exécution du Pipeline (Ordre de lancement)
 
 Pour que le flux de données soit correctement traité, ouvrez quatre terminaux différents et lancez les scripts dans l'ordre suivant :
 ```bash
