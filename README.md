@@ -151,5 +151,6 @@ PROJET BLOOD PRESSURE/
 ├── generator.py                # Simulateur de données médicales
 ├── reset_topic.py              # Script utilitaire de purge Kafka
 ├── requirements.txt            # Dépendances du projet
+├── donnees_entrainement.csv    # Dataset d'entraînement du modèle de prédiction
 ├── ML_Model.ipynb              # Notebook d'entraînement et modèle de prédiction
 └── patients_sains.json         # Stock localement les données des patients sains
