@@ -1,4 +1,4 @@
-# 🩺 Blood Pressure & Stroke Prediction System
+# ⚕️Blood Pressure and AVC Risk Monitoring🩺🫀
 
 Ce projet a été réalisé dans le cadre du **Master USPN (Big Data)**. Il s'agit d'un écosystème complet de traitement de données de santé en temps réel utilisant une architecture distribuée pour prédire les risques d'AVC (Accident Vasculaire Cérébral).
 ---
